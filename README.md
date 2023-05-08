@@ -20,6 +20,7 @@ Chapter 6 : Pretraining a RoBERTa Model from Scratch<br>
 Pretraining a RoBERTa Model from Scratch<br>
 KantaiBERT.ipynb
 <br>
+<br>
 Part 2
 <br>
 Chapter 7: The Rise of Suprahuman Transformers with GPT-3 Engines<br>				
