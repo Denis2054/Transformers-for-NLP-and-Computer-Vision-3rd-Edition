@@ -87,6 +87,8 @@ Exploring_and_Comparing_Advanced_AI_Technologies.ipynb<br>
 <br>
 https://github.com/features/preview/copilot-x
 <br>
+<br>
+
 Part III Computer Vision
 <br>
 Chapter 17: From NLP to Task-Agnostic Transformer Models<br>				
