@@ -75,6 +75,9 @@ Chapter 19: Fine-Tuning CV<br>
 <br>
 Chapter 20: Training CV<br>
 <br>
+Chapter 20: Metaverse<br>
+<br>
+<br>
 Bonus<br>
 🐬Explore and compare ChatGPT, GPT-4 and GPT-3 models<br>				
 Exploring_GPT_4_API.ipynb<br>	
