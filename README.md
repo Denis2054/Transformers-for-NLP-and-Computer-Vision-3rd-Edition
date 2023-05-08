@@ -70,7 +70,9 @@ Vision_Transformers.ipynb<br>
 DALL_E.ipynb<br>
 <br>
 Chapter 18: Prompt Art <br>
+<br>
 Chapter 19: Fine-Tuning CV<br>
+<br>
 Chapter 20: Training CV<br>
 <br>
 Bonus<br>
