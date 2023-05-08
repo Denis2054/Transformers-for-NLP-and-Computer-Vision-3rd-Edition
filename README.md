@@ -76,7 +76,6 @@ KantaiBERT_Recommender.ipynb<br>
 <br>
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb<br>
 <br>
-<br>
 🐬ChatGPT or davinin_instruct? What is best for your project?<br>				
 ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb<br>	
 <br>
@@ -86,7 +85,6 @@ ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb<br>
 -Discover and compare the offerings of Google Cloud AI Language,Google Cloud AI Vision, OpenAI GPT-4, Google Bard, Microsoft New Bing, ChatGPT Plus-GPT-4,<br> Hugging Face, HuggingGPT, and Google Smart Compose.<br>				
 Exploring_and_Comparing_Advanced_AI_Technologies.ipynb<br>
 <br>
-
 Part III Computer Vision
 <br>
 Chapter 17: From NLP to Task-Agnostic Transformer Models<br>				
@@ -105,12 +103,4 @@ Chapter 20: Training CV<br>
 <br>
 Chapter 21: Metaverse<br>
 ALL_in_One.ipynb<br>
-<br>
-Archives<br>
-<br>
-Appendix III: Generic Text Completion with GPT-2<br>				
-OpenAI_GPT_2.ipynb<br>
-<br>
-Appendix IV: Custom Text Completion with GPT-2<br>				
-Training_OpenAI_GPT_2.ipynb<br>
 <br>
