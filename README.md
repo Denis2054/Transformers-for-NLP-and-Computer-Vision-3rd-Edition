@@ -1,5 +1,7 @@
 # Transformers_3rd_Edition
 
+Chapter 1: Why Transformers?
+
 Chapter 2: Getting Started with the Architecture of the Transformer Model				
 Multi_Head_Attention_Sub_Layer.ipynb
 positional_encoding.ipynb
