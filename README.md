@@ -15,67 +15,65 @@ Last updated: May 12, 2023
 
 📘**Work in Progress** 
 
-**Chapter 1: What are Transformers?**  			
+**Chapter 1: What are Transformers?** <br>
 ChatGPT_Plus_writes_and_explains_classification.ipynb  
 
-**Chapter 3: Downstream NLP Tasks with Transformers**  				
-Transformer_tasks.ipynb  
+**Chapter 3: Downstream NLP Tasks with Transformers**  <br> 				
+Transformer_tasks.ipynb  <br>   
 
-**Chapter 4: Machine Translation with the Transformer**  			
-Trax_translation.ipynb  
+**Chapter 4: Machine Translation with the Transformer**  <br>   			
+Trax_translation.ipynb  <br>   
 
-**Chapter 5: Fine-Tuning BERT Models**  			
-BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb  
+**Chapter 5: Fine-Tuning BERT Models**  <br>   			
+BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb<br>   
 
-**Chapter 6 : Pretraining a RoBERTa Model from Scratch**  				
-Pretraining a RoBERTa Model from Scratch  
-KantaiBERT.ipynb  
+**Chapter 6 : Pretraining a RoBERTa Model from Scratch** <br>  				
+Pretraining a RoBERTa Model from Scratch<br>
+KantaiBERT.ipynb<br>   
 
-**Part II The Rise of Suprahuman Transformers**  
+**Part II The Rise of Suprahuman Transformers**  <br>   
 
-**Chapter 7: The Rise of Suprahuman Transformers with GPT-3 Engines**  			
-Getting_Started_GPT_3.ipynb  
-Fine_tuning_GPT_3.ipynb  
-Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb  
-Getting_Started_with_GPT_4.ipynb  
-Speaking_with_ChatGPT.ipynb  
-
+**Chapter 7: The Rise of Suprahuman Transformers with GPT-3 Engines**  <br>   			
+Getting_Started_GPT_3.ipynb<br>
+Fine_tuning_GPT_3.ipynb<br>
+Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb<br>
+Getting_Started_with_GPT_4.ipynb<br>
+Speaking_with_ChatGPT.ipynb<br>
 🐬Go back to the origins with GPT-2 and ChatGPT  				
 GPT_2_and_ChatGPT_the_Origins.ipynb  
-
 🐬Explore and compare ChatGPT, GPT-4 and GPT-3 models  				
 Exploring_GPT_4_API.ipynb  
 
 **Chapter 8: Embedding**  
 Domain_Specific_GPT_3_Functionality.ipynb  
 
-**Chapter 9 : Matching Tokenizers and Datasets**  				
-Tokenizers.ipynb  
-Training_OpenAI_GPT_2_CH09.ipynb  
+**Chapter 9 : Matching Tokenizers and Datasets**  <br>				
+Tokenizers.ipynb<br>
+Training_OpenAI_GPT_2_CH09.ipynb<br> 
 
-**Chapter 10 : Applying Transformers to Legal and Financial Documents for AI Text Summarization**  				
-Summerizing_Text_with_T5.ipynb  
-(?)Summarizing_with_ChatGPT.ipynb  
+**Chapter 10 : Applying Transformers to Legal and Financial Documents for AI Text Summarization**<br>  				
+Summerizing_Text_with_T5.ipynb<br>
+(?)Summarizing_with_ChatGPT.ipynb<br>  
 
-**Chapter 11 : Semantic Role Labeling**  			
-SRL.ipynb  
-Semantic_Role_Labeling_with_ChatGPT.ipynb  
+**Chapter 11 : Semantic Role Labeling**<br>  			
+SRL.ipynb<br>
+Semantic_Role_Labeling_with_ChatGPT.ipynb<br>
 
-**Chapter 12 : Let Your Data Do the Talking: Story, Questions, and Answers**  				
-QA.ipynb  
-01_Basic_QA_Pipeline.ipynb  
-(x)Haystack_QA_Pipeline.ipynb  
+**Chapter 12 : Let Your Data Do the Talking: Story, Questions, and Answers** <br>  				
+QA.ipynb<br>
+01_Basic_QA_Pipeline.ipynb<br>
+(x)Haystack_QA_Pipeline.ipynb<br> 
 
-**Chapter 13 Detecting Customer Emotions to Make Predictions**  		
+**Chapter 13 Detecting Customer Emotions to Make Predictions** <br>  		
 SentimentAnalysis.ipynb  
 
-**Chapter 14 : Analyzing Fake News with Transformers**  			
-Fake_News.ipynb  
-Fake_News_Analysis_with_ChatGPT.ipynb  
+**Chapter 14 : Analyzing Fake News with Transformers** <br>  			
+Fake_News.ipynb<br>
+Fake_News_Analysis_with_ChatGPT.ipynb<br>  
 
-**Chapter 15 : Interpreting Black Box Transformer Models**  			
-BertViz.ipynb  
-Understanding_GPT_2_models_with_Ecco.ipynb  
+**Chapter 15 : Interpreting Black Box Transformer Models** <br>  			
+BertViz.ipynb<br>  
+Understanding_GPT_2_models_with_Ecco.ipynb<br>
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
 
@@ -87,7 +85,7 @@ ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb
 🐬AI Language Model Comparison  
 -Explore various AI language models and their capabilities through this comprehensive notebook  
 -Dive into different APIs and functionalities, such as sentiment analysis, entity recognition, syntax analysis, content classification, and AI vision. 
--Discover and compare the offerings of Google Cloud AI Language,Google Cloud AI Vision, OpenAI GPT-4, Google Bard, Microsoft New Bing, ChatGPT Plus-GPT-4,Hugging Face, HuggingGPT, and Google Smart Compose.  	
+-Discover and compare the offerings of Google Cloud AI Language,Google Cloud AI Vision, OpenAI GPT-4, Google Bard, Microsoft New Bing, ChatGPT Plus-GPT-4,Hugging Face, HuggingGPT, and Google Smart Compose.<br>  	
 Exploring_and_Comparing_Advanced_AI_Technologies.ipynb  
 
 **Part III Computer Vision**  
