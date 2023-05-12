@@ -1,5 +1,7 @@
 # Transformers_3rd_Edition<br>
 
+Last updated: May 12, 2023
+
 📗**Ready for review**
 
 **Part 1 The Foundations of Transformer Models**<br>
