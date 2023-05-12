@@ -94,7 +94,8 @@ Exploring_and_Comparing_Advanced_AI_Technologies.ipynb
 
 Vision_Transformers.ipynb  
 DALL_E.ipynb  
-Vision_Transformer_MLP_Mixer.ipynb  
+Vision_Transformer_MLP_Mixer.ipynb<br>
+DiT, Diffusion Transformer
 
 **Chapter 18: Prompt Art**  
 Getting_Started_with_the_DALL_E_2_API.ipynb  
