@@ -30,7 +30,7 @@ Pretraining a RoBERTa Model from Scratch<br>
 KantaiBERT.ipynb
 <br>
 <br>
-Part II The Rise of Suprahuman Transformers
+**Part II The Rise of Suprahuman Transformers**
 <br>
 Chapter 7: The Rise of Suprahuman Transformers with GPT-3 Engines<br>				
 Getting_Started_GPT_3.ipynb<br>
@@ -80,33 +80,28 @@ XAI_by_ChatGPT_for_ChatGPT.ipynb<br>
 <br>
 Chapter 16 : The Emergence of Transformer-Driven Copilots<br>				
 KantaiBERT_Recommender.ipynb<br>
-<br>
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb<br>
-<br>
 🐬ChatGPT or davinin_instruct? What is best for your project?<br>				
 ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb<br>	
-<br>
 🐬AI Language Model Comparison<br>
 -Explore various AI language models and their capabilities through this comprehensive notebook.<br>
--Dive into different APIs and functionalities, such as sentiment analysis, entity recognition, syntax analysis, content classification, and AI vision.<br>
+-Dive into different APIs and functionalities, such as sentiment analysis, entity recognition, syntax analysis, content classification, and AI vision.
 -Discover and compare the offerings of Google Cloud AI Language,Google Cloud AI Vision, OpenAI GPT-4, Google Bard, Microsoft New Bing, ChatGPT Plus-GPT-4,<br> Hugging Face, HuggingGPT, and Google Smart Compose.<br>				
 Exploring_and_Comparing_Advanced_AI_Technologies.ipynb<br>
 <br>
-
+**Part III Computer Vision**
 <br>
-
-Part III Computer Vision
+Chapter 17: From NLP to Task-Agnostic Transformer Models<br
 <br>
-Chapter 17: From NLP to Task-Agnostic Transformer Models<br>				
 Vision_Transformers.ipynb<br>
 DALL_E.ipynb<br>
 Vision_Transformer_MLP_Mixer.ipynb<br>
 <br>
 Chapter 18: Prompt Art <br>
-<br>
 Getting_Started_with_the_DALL_E_2_API.ipynb<br>
 <br>
 Chapter 19: Fine-Tuning and training CV<br>
+Hugging Face
 <br>
 Chapter 20: Metaverse<br>
 ALL_in_One.ipynb<br>
