@@ -90,8 +90,7 @@ Exploring_and_Comparing_Advanced_AI_Technologies.ipynb
 
 **Part III Computer Vision**  
 
-**Chapter 17: From NLP to Task-Agnostic Transformer Models**  
-
+**Chapter 17: From NLP to Task-Agnostic Transformer Models**  <br>
 Vision_Transformers.ipynb  
 DALL_E.ipynb  
 Vision_Transformer_MLP_Mixer.ipynb<br>
