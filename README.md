@@ -72,7 +72,7 @@ Fake_News.ipynb<br>
 Fake_News_Analysis_with_ChatGPT.ipynb<br>  
 
 **Chapter 15 : Interpreting Black Box Transformer Models** <br>  			
-BertViz.ipynb<br>  
+BertViz.ipynb<br>
 Understanding_GPT_2_models_with_Ecco.ipynb<br>
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
