@@ -101,7 +101,6 @@ Chapter 17: From NLP to Task-Agnostic Transformer Models<br>
 Vision_Transformers.ipynb<br>
 DALL_E.ipynb<br>
 Vision_Transformer_MLP_Mixer.ipynb<br>
-Compact_Convolutional_Transformers.ipynb<br>
 <br>
 Chapter 18: Prompt Art <br>
 <br>
