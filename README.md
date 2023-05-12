@@ -89,7 +89,10 @@ ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb<br>
 -Discover and compare the offerings of Google Cloud AI Language,Google Cloud AI Vision, OpenAI GPT-4, Google Bard, Microsoft New Bing, ChatGPT Plus-GPT-4,<br> Hugging Face, HuggingGPT, and Google Smart Compose.<br>				
 Exploring_and_Comparing_Advanced_AI_Technologies.ipynb<br>
 <br>
-**Part III Computer Vision**
+<br>
+<br>
+**Part II The Rise of Suprahuman Transformers**
+<br>
 <br>
 Chapter 17: From NLP to Task-Agnostic Transformer Models<br
 <br>
