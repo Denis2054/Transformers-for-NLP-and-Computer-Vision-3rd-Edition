@@ -1,5 +1,5 @@
 # Transformers_3rd_Edition<br>
-<img src="https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
+<img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt
 
 Last updated: May 12, 2023
