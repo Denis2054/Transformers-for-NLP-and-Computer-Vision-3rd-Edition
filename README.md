@@ -103,10 +103,8 @@ Chapter 18: Prompt Art <br>
 <br>
 Getting_Started_with_the_DALL_E_2_API.ipynb<br>
 <br>
-Chapter 19: Fine-Tuning CV<br>
+Chapter 19: Fine-Tuning and training CV<br>
 <br>
-Chapter 20: Training CV<br>
-<br>
-Chapter 21: Metaverse<br>
+Chapter 20: Metaverse<br>
 ALL_in_One.ipynb<br>
 <br>
