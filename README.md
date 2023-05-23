@@ -12,6 +12,8 @@ Last updated: May 18, 2023
 **Part 1 The Foundations of Transformer Models**
  **Chapter 2: Getting Started with the Architecture of the Transformer Model**
 | <ul><li>Multi_Head_Attention_Sub_Layer.ipynb</li><li>positional_encoding.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/Multi_Head_Attention_Sub_Layer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/positional_encoding.ipynb) |
+ **Chapter 3: Advancements in Translations with Google Trax, Google Translate, and Google Bard**
+| <ul><li>WMT_translations.ipynb</li><li>Trax_Google_Translate.ipynb/li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter04/WMT_translations.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter04/Trax_Google_Translate.ipynb) |
  **Chapter 5: Diving into Fine-Tuning through BERT**
 | <ul><li>BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter05/BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb) |
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
