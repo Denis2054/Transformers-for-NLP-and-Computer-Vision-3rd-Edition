@@ -4,8 +4,6 @@ book-in-production image copyright 2023, Denis Rothman generated with Midjourney
 
 Last updated: May 24, 2023
 
-ChatGPT_Plus_writes_and_explains_classification.ipynb
-
 📗**Ready for review**
 
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
@@ -13,7 +11,7 @@ ChatGPT_Plus_writes_and_explains_classification.ipynb
 | | | | | |
 **Part 1 The Foundations of Transformer Models**
  **Chapter 1.What are Transformers?**
-| <ul><li>ChatGPT_Plus_writes_and_explains_classification.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter01/ChatGPT_Plus_writes_and_explains_classification.ipynb) |
+| <ul><li>ChatGPT_Plus_writes_and_explains_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter01/ChatGPT_Plus_writes_and_explains_AI.ipynb) |
  **Chapter 2: Getting Started with the Architecture of the Transformer Model**
 | <ul><li>Multi_Head_Attention_Sub_Layer.ipynb</li><li>positional_encoding.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/Multi_Head_Attention_Sub_Layer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/positional_encoding.ipynb) |
  **Chapter 4: Advancements in Translations with Google Trax, Google Translate, and Google Bard**
