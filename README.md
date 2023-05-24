@@ -23,14 +23,8 @@ Last updated: May 24, 2023
 
 📘**Work in Progress** 
 
-**Chapter 1: What are Transformers?** <br>
-ChatGPT_Plus_writes_and_explains_classification.ipynb  
-
 **Chapter 3: Downstream NLP Tasks with Transformers**  <br> 				
 Transformer_tasks.ipynb  <br>   
-
-**Chapter 4: Machine Translation with the Transformer**  <br>   			
-Trax_translation.ipynb  <br>   
 
 **Part II The Rise of Suprahuman Transformers**  <br>   
 
