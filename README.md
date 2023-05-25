@@ -15,7 +15,7 @@ Last updated: May 24, 2023
  **Chapter 2: Getting Started with the Architecture of the Transformer Model**
 | <ul><li>Multi_Head_Attention_Sub_Layer.ipynb</li><li>positional_encoding.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/Multi_Head_Attention_Sub_Layer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/positional_encoding.ipynb) |
  **Chapter 3: Emergent vs Downstream Tasks: the Unseen Depths of Transformers**
-| <ul><li>Transformer_tasks.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter03/Transformer_tasks.ipynb) |
+| <ul><li>Transformer_tasks_with_Hugging_Face.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter03/Transformer_tasks_with_Hugging_Face.ipynb) |
  **Chapter 4: Advancements in Translations with Google Trax, Google Translate, and Google Bard**
 | <ul><li>WMT_translations.ipynb</li><li>Trax_Google_Translate.ipynb/li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter04/WMT_translations.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter04/Trax_Google_Translate.ipynb) |
  **Chapter 5: Diving into Fine-Tuning through BERT**
@@ -24,9 +24,6 @@ Last updated: May 24, 2023
 | <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
 
 📘**Work in Progress** 
-
-**Chapter 3: Downstream NLP Tasks with Transformers**  <br> 				
-Transformer_tasks.ipynb  <br>   
 
 **Part II The Rise of Suprahuman Transformers**  <br>   
 
