@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: May 24, 2023
+Last updated: June 1, 2023
 
 📗**Ready for review**
 
@@ -22,10 +22,8 @@ Last updated: May 24, 2023
 | <ul><li>BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter05/BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb) |
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
 | <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
- **Chapter 14(presently 15): Shattering the Black Box with Interpretable tools**
-| <ul><li>BertViz.ipynb</li><li>Hugging_Face_SHAP.ipynb</li><li>Understanding_GPT_2_models_with_Ecco.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/BertViz.ipynb)
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/Hugging_Face_SHAP.ipynb) |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/Understanding_GPT_2_models_with_Ecco.ipynb) |
+ **Chapter 14(presently 15, links will be added in final version): Shattering the Black Box with Interpretable tools**
+| <ul><li>BertViz.ipynb</li><li>Hugging_Face_SHAP.ipynb</li><li>Understanding_GPT_2_models_with_Ecco.ipynb</li></ul> ||
 
 📘**Work in Progress** 
 
@@ -71,10 +69,6 @@ SentimentAnalysis.ipynb
 **Chapter 14 : Analyzing Fake News with Transformers** <br>  			
 Fake_News.ipynb<br>
 Fake_News_Analysis_with_ChatGPT.ipynb<br>  
-
-**Chapter 15 : Interpreting Black Box Transformer Models** <br>  			
-Understanding_GPT_2_models_with_Ecco.ipynb<br>
-
 
 **Chapter 16 : The Emergence of Transformer-Driven Copilots**  
 KantaiBERT_Recommender.ipynb  
