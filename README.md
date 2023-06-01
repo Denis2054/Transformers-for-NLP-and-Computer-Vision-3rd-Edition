@@ -23,7 +23,9 @@ Last updated: May 24, 2023
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
 | <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
  **Chapter 14(presently 15): Shattering the Black Box with Interpretable tools**
-| <ul><li>BertViz.ipynb</li><li>positional_encoding.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/BertViz.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/positional_encoding.ipynb) |
+| <ul><li>BertViz.ipynb</li><li>Hugging_Face_SHAP.ipynb</li><li>Understanding_GPT_2_models_with_Ecco.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]| [![Open In Colab](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/BertViz.ipynb)
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/Hugging_Face_SHAP.ipynb) |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/Understanding_GPT_2_models_with_Ecco.ipynb) |
 
 📘**Work in Progress** 
 
@@ -39,10 +41,13 @@ Speaking_with_ChatGPT.ipynb<br>
 GPT_2_and_ChatGPT_the_Origins.ipynb  
 🐬Explore and compare ChatGPT, GPT-4 and GPT-3 models  				
 Exploring_GPT_4_API.ipynb  
+🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
+XAI_by_ChatGPT_for_ChatGPT.ipynb  
 
 **Chapter 8: Embedding**  
 Domain_Specific_GPT_3_Functionality.ipynb  
-
+🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
+XAI_by_ChatGPT_for_ChatGPT.ipynb  
 **Chapter 9 : Matching Tokenizers and Datasets**  <br>				
 Tokenizers.ipynb<br>
 Training_OpenAI_GPT_2_CH09.ipynb<br> 
@@ -68,10 +73,8 @@ Fake_News.ipynb<br>
 Fake_News_Analysis_with_ChatGPT.ipynb<br>  
 
 **Chapter 15 : Interpreting Black Box Transformer Models** <br>  			
-BertViz.ipynb<br>
 Understanding_GPT_2_models_with_Ecco.ipynb<br>
-🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
-XAI_by_ChatGPT_for_ChatGPT.ipynb  
+
 
 **Chapter 16 : The Emergence of Transformer-Driven Copilots**  
 KantaiBERT_Recommender.ipynb  
