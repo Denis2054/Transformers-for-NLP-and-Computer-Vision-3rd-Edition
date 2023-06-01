@@ -22,6 +22,8 @@ Last updated: May 24, 2023
 | <ul><li>BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter05/BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb) |
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
 | <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
+ **Chapter 14(presently 15): Shattering the Black Box with Interpretable tools**
+| <ul><li>BertViz.ipynb</li><li>positional_encoding.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/BertViz.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/positional_encoding.ipynb) |
 
 📘**Work in Progress** 
 
