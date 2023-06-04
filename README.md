@@ -22,8 +22,11 @@ Last updated: June 1, 2023
 | <ul><li>BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter05/BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb) |
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
 | <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
- **Chapter 15: Shattering the Black Box with Interpretable tools**
-| <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/BertViz_Interactive.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter15/Hugging_Face_SHAP.ipynb) |
+ **Chapter 8: Shattering the Black Box with Interpretable tools**
+| <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter8/BertViz_Interactive.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter8/Hugging_Face_SHAP.ipynb) |
+ **Chapter 9: Investigating the Role of Tokenizers in Shaping Transformer Models**
+| <ul><li>Tokenizers.ipynb</li><li>Sub_word_tokenizers.ipynb</li><li>Exploring_tokenizers.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter9/Tokenizers.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter9/Sub_word_tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter9/Exploring_tokenizers.ipynb)|
+
 
 📘**Work in Progress** 
 
@@ -42,13 +45,10 @@ Exploring_GPT_4_API.ipynb
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
 
-**Chapter 8: Embedding**  
+**Chapter 9: Embedding**  
 Domain_Specific_GPT_3_Functionality.ipynb  
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
-**Chapter 9 : Matching Tokenizers and Datasets**  <br>				
-Tokenizers.ipynb<br>
-Training_OpenAI_GPT_2_CH09.ipynb<br> 
 
 **Chapter 10 : Applying Transformers to Legal and Financial Documents for AI Text Summarization**<br>  				
 Summerizing_Text_with_T5.ipynb<br>
@@ -66,7 +66,7 @@ QA.ipynb<br>
 **Chapter 13 Detecting Customer Emotions to Make Predictions** <br>  		
 SentimentAnalysis.ipynb  
 
-**Chapter 14 : Analyzing Fake News with Transformers** <br>  			
+**Chapter 21 : Analyzing Fake News with Transformers** <br>  			
 Fake_News.ipynb<br>
 Fake_News_Analysis_with_ChatGPT.ipynb<br>  
 
