@@ -66,10 +66,6 @@ QA.ipynb<br>
 **Chapter 13 Detecting Customer Emotions to Make Predictions** <br>  		
 SentimentAnalysis.ipynb  
 
-**Chapter 21 : Analyzing Fake News with Transformers** <br>  			
-Fake_News.ipynb<br>
-Fake_News_Analysis_with_ChatGPT.ipynb<br>  
-
 **Chapter 16 : The Emergence of Transformer-Driven Copilots**  
 KantaiBERT_Recommender.ipynb  
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb  
@@ -95,5 +91,8 @@ Getting_Started_with_the_DALL_E_2_API.ipynb
 **Chapter 19: Fine-Tuning and training CV**   
 Hugging Face  
 
-**Chapter 20: Metaverse**  
+**Chapter 20: CV**
+**Chapter 21 : Analyzing Fake News with Transformers** <br>  			
+Fake_News.ipynb<br>
+Fake_News_Analysis_with_ChatGPT.ipynb<br>  
 ALL_in_One.ipynb  
