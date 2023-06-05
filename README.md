@@ -30,6 +30,9 @@ Last updated: June 1, 2023
 
 📘**Work in Progress** 
 
+**The titles, content and order are subject to change until they
+are transferred to the "Ready for review" section.**
+
 **Part II The Rise of Suprahuman Transformers**  <br>   
 
 **Chapter 7: The Rise of Suprahuman Transformers with GPT-3 Engines**  <br>   			
