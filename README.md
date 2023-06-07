@@ -27,7 +27,7 @@ Last updated: June 7, 2023
  **Chapter 9: Investigating the Role of Tokenizers in Shaping Transformer Models**
 | <ul><li>Tokenizers.ipynb</li><li>Sub_word_tokenizers.ipynb</li><li>Exploring_tokenizers.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Sub_word_tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Exploring_tokenizers.ipynb)|
  **Chapter 11(pending): Towards Syntax-Free Semantic Role Labeling with BERT and OpenAI's ChatGPT**
-| <ul><li>SRL.ipynb</li><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/SRL.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/Semantic_Role_Labeling_ChatGPT.ipynb)
+| <ul><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/Semantic_Role_Labeling_ChatGPT.ipynb)
 
 📘**Work in Progress** 
 
@@ -57,10 +57,6 @@ XAI_by_ChatGPT_for_ChatGPT.ipynb
 **Chapter 10 : Applying Transformers to Legal and Financial Documents for AI Text Summarization**<br>  				
 Summerizing_Text_with_T5.ipynb<br>
 (?)Summarizing_with_ChatGPT.ipynb<br>  
-
-**Chapter 11 : Semantic Role Labeling**<br>  			
-SRL.ipynb<br>
-Semantic_Role_Labeling_with_ChatGPT.ipynb<br>
 
 **Chapter 12 : Let Your Data Do the Talking: Story, Questions, and Answers** <br>  				
 QA.ipynb<br>
