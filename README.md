@@ -26,7 +26,8 @@ Last updated: June 5, 2023
 | <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter08/BertViz_Interactive.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter08/Hugging_Face_SHAP.ipynb)
  **Chapter 9: Investigating the Role of Tokenizers in Shaping Transformer Models**
 | <ul><li>Tokenizers.ipynb</li><li>Sub_word_tokenizers.ipynb</li><li>Exploring_tokenizers.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Sub_word_tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Exploring_tokenizers.ipynb)|
-
+ **Chapter 11(pending): Towards Syntax-Free Semantic Role Labeling with BERT and OpenAI's ChatGPT**
+| <ul><li>SRL.ipynb</li><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/SRL.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/Semantic_Role_Labeling_ChatGPT.ipynb)
 
 📘**Work in Progress** 
 
