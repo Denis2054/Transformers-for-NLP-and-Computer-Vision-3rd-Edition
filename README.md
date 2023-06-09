@@ -28,6 +28,8 @@ Last updated: June 7, 2023
 | <ul><li>Tokenizers.ipynb</li><li>Sub_word_tokenizers.ipynb</li><li>Exploring_tokenizers.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Sub_word_tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Exploring_tokenizers.ipynb)|
  **Chapter 11(pending): Towards Syntax-Free Semantic Role Labeling with BERT and OpenAI's ChatGPT**
 | <ul><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/Semantic_Role_Labeling_ChatGPT.ipynb)
+ **Chapter 12: Shattering the Black Box with Interpretable tools**
+| <ul><li>Summerizing_Text_T5.ipynb</li><li>Summarizing_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter12/Summerizing_Text_T5.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter12/Summarizing_ChatGPT.ipynb)
  **Chapter 16: Beyond Text: Vision Transformers in the Dawn of Revolutionary AI**
 | <ul><li>ViT_CLIP.ipynb</li><li>DALL-E_Architecture.ipynb</li><li>Getting_Started_DALL_E_2_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/ViT_CLIP.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/DALL_E_Architecture.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/Getting_Started_DALL_E_2_API.ipynb)|
 
@@ -56,16 +58,12 @@ Domain_Specific_GPT_3_Functionality.ipynb
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
 
-**Chapter 10 : Applying Transformers to Legal and Financial Documents for AI Text Summarization**<br>  				
-Summerizing_Text_with_T5.ipynb<br>
-(?)Summarizing_with_ChatGPT.ipynb<br>  
-
-**Chapter 12 : Let Your Data Do the Talking: Story, Questions, and Answers** <br>  				
+**Chapter xx : Let Your Data Do the Talking: Story, Questions, and Answers** <br>  				
 QA.ipynb<br>
 01_Basic_QA_Pipeline.ipynb<br>
 (x)Haystack_QA_Pipeline.ipynb<br> 
 
-**Chapter 13 Detecting Customer Emotions to Make Predictions** <br>  		
+**Chapter xx Detecting Customer Emotions to Make Predictions** <br>  		
 SentimentAnalysis.ipynb  
 
 **Chapter 16 : From Copilots to Pilots**
