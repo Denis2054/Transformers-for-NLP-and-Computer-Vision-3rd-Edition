@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: June 7, 2023
+Last updated: June 17, 2023
 
 📗**Ready for review**
 
@@ -27,21 +27,20 @@ Last updated: June 7, 2023
 | <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter08/BertViz_Interactive.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter08/Hugging_Face_SHAP.ipynb)
  **Chapter 9: Investigating the Role of Tokenizers in Shaping Transformer Models**
 | <ul><li>Tokenizers.ipynb</li><li>Sub_word_tokenizers.ipynb</li><li>Exploring_tokenizers.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Sub_word_tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter09/Exploring_tokenizers.ipynb)|
- **Chapter 11(pending): Towards Syntax-Free Semantic Role Labeling with BERT and OpenAI's ChatGPT**
+ **Chapter 11: Towards Syntax-Free Semantic Role Labeling with BERT and OpenAI's ChatGPT**
 | <ul><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/Semantic_Role_Labeling_ChatGPT.ipynb)
  **Chapter 12: Summarization with T5 and ChatGPT**
 | <ul><li>Summerizing_Text_T5.ipynb</li><li>Summarizing_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter12/Summerizing_Text_T5.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter12/Summarizing_ChatGPT.ipynb)
- **Part III: Computer Vision(title, pending)**
- **Chapter 16: Beyond Text: Vision Transformers in the Dawn of Revolutionary AI**
+ **Part III: Computer Vision(title pending)**
+ **Chapter 16: Vision Transformers in the Dawn of Revolutionary AI**
 | <ul><li>ViT_CLIP.ipynb</li><li>DALL-E_Architecture.ipynb</li><li>Getting_Started_DALL_E_2_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/ViT_CLIP.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/DALL_E_Architecture.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/Getting_Started_DALL_E_2_API.ipynb)|
 
 📘**Work in Progress** 
 
-**The titles, content and order are subject to change until they
+**The titles, content, and order are subject to change until they
 are transferred to the "Ready for review" section.**
 
 **Part II The Rise of Suprahuman Transformers**  <br>   
-
 **Chapter 7: The Rise of Suprahuman Transformers with GPT-3 Engines**  <br>   			
 Getting_Started_GPT_3.ipynb<br>
 Fine_tuning_GPT_3.ipynb<br>
@@ -50,7 +49,7 @@ Getting_Started_with_GPT_4.ipynb<br>
 Speaking_with_ChatGPT.ipynb<br>
 🐬Go back to the origins with GPT-2 and ChatGPT  				
 GPT_2_and_ChatGPT_the_Origins.ipynb  
-🐬Explore and compare ChatGPT, GPT-4 and GPT-3 models  				
+🐬Explore and compare ChatGPT, GPT-4, and GPT-3 models  				
 Exploring_GPT_4_API.ipynb  
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
