@@ -9,8 +9,8 @@ Last updated: June 7, 2023
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
 | :-------- | :-------- | :------- |:------- |:------- |
 | | | | | |
-**Part 1 The Foundations of Transformer Models**
- **Chapter 1.What are Transformers?**
+**Part I The Foundations of Transformer Models**
+ **Chapter 1. What are Transformers?**
 | <ul><li>ChatGPT_Plus_writes_and_explains_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter01/ChatGPT_Plus_writes_and_explains_AI.ipynb) |
  **Chapter 2: Getting Started with the Architecture of the Transformer Model**
 | <ul><li>Multi_Head_Attention_Sub_Layer.ipynb</li><li>positional_encoding.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/Multi_Head_Attention_Sub_Layer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter02/positional_encoding.ipynb) |
@@ -22,6 +22,7 @@ Last updated: June 7, 2023
 | <ul><li>BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter05/BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb) |
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
 | <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
+ **Part II: The Rise of Suprahuman NLP**
  **Chapter 8: Shattering the Black Box with Interpretable tools**
 | <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter08/BertViz_Interactive.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter08/Hugging_Face_SHAP.ipynb)
  **Chapter 9: Investigating the Role of Tokenizers in Shaping Transformer Models**
@@ -30,6 +31,7 @@ Last updated: June 7, 2023
 | <ul><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter11/Semantic_Role_Labeling_ChatGPT.ipynb)
  **Chapter 12: Shattering the Black Box with Interpretable tools**
 | <ul><li>Summerizing_Text_T5.ipynb</li><li>Summarizing_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter12/Summerizing_Text_T5.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter12/Summarizing_ChatGPT.ipynb)
+ **Part III: Computer Vision(title, pending)**
  **Chapter 16: Beyond Text: Vision Transformers in the Dawn of Revolutionary AI**
 | <ul><li>ViT_CLIP.ipynb</li><li>DALL-E_Architecture.ipynb</li><li>Getting_Started_DALL_E_2_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/ViT_CLIP.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/DALL_E_Architecture.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers_3rd_Edition/blob/main/Chapter16/Getting_Started_DALL_E_2_API.ipynb)|
 
