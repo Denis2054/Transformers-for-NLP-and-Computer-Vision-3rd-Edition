@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: June 19, 2023
+Last updated: June 22, 2023
 
 📗**Ready for review**
 
@@ -10,7 +10,7 @@ Last updated: June 19, 2023
 | :-------- | :-------- | :------- |:------- |:------- |
 | | | | | |
 **Part I The Foundations of Transformer Models**
- **Chapter 1. What are Transformers?**
+ **Chapter 1: What are Transformers?**
 | <ul><li>ChatGPT_Plus_writes_and_explains_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter01/ChatGPT_Plus_writes_and_explains_AI.ipynb) |
  **Chapter 2: Getting Started with the Architecture of the Transformer Model**
 | <ul><li>Multi_Head_Attention_Sub_Layer.ipynb</li><li>positional_encoding.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter02/Multi_Head_Attention_Sub_Layer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter02/positional_encoding.ipynb) |
@@ -23,6 +23,8 @@ Last updated: June 19, 2023
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
 | <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
  **Part II: The Rise of Suprahuman NLP**
+ **Chapter 7: From Basics to Disruption with ChatGPT**
+| <ul><li>Fine_tuning_GPT_3.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/Fine_tuning_GPT_3.ipynb) |
  **Chapter 8: Shattering the Black Box with Interpretable tools**
 | <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter08/BertViz_Interactive.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter08/Hugging_Face_SHAP.ipynb)
  **Chapter 9: Investigating the Role of Tokenizers in Shaping Transformer Models**
