@@ -73,6 +73,8 @@ SentimentAnalysis.ipynb
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
 
 **Appendix V Additional Notebooks or potential chapter notebooks**
+Fake_News_Analysis_with_ChatGPT.ipynb
+Fake_News.ipynb
 Fine_tuning_GPT_3.ipynb
 KantaiBERT_Recommender.ipynb  
 🐬ChatGPT or davinin_instruct? What is best for your project?  		
