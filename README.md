@@ -44,57 +44,18 @@ Last updated: June 22, 2023
 are transferred to the "Ready for review" section.**
 
 **Part II The Rise of Suprahuman Transformers**  <br>   
-**Chapter 7: The Rise of Suprahuman Transformers with GPT-3 Engines**  <br>   			
-Getting_Started_GPT_3.ipynb<br>
-Fine_tuning_GPT_3.ipynb<br>
-Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb<br>
-Getting_Started_with_GPT_4.ipynb<br>
-Speaking_with_ChatGPT.ipynb<br>
-🐬Go back to the origins with GPT-2 and ChatGPT  				
-GPT_2_and_ChatGPT_the_Origins.ipynb  
-🐬Explore and compare ChatGPT, GPT-4, and GPT-3 models  				
-Exploring_GPT_4_API.ipynb  
-🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
-XAI_by_ChatGPT_for_ChatGPT.ipynb  
-
-**Chapter 9: Embedding**  
+ 
+**Chapter 11: Embedding**  
 Domain_Specific_GPT_3_Functionality.ipynb  
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
-
-**Chapter xx : Let Your Data Do the Talking: Story, Questions, and Answers** <br>  				
-QA.ipynb<br>
-01_Basic_QA_Pipeline.ipynb<br>
-(x)Haystack_QA_Pipeline.ipynb<br> 
-
-**Chapter xx Detecting Customer Emotions to Make Predictions** <br>  		
-SentimentAnalysis.ipynb  
 
 **Chapter 14, Exploring Cutting-Edge NLP with Google Vertex AI and PaLM 2**
 Google_Cloud.ipynb
 
 **Chapter 15, Guarding the Giants: Mitigating Risks in Large Language Models**
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
-
-**Appendix V Additional Notebooks or potential chapter notebooks**
-Speaking_with_ChatGPT.ipynb  
-Running_a_Fine_tune_GPT_3.ipynb  
-Fine_tuning_GPT_3.ipynb  
-Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb  
-Exploring_GPT_4_API.ipynb  
-GPT_2_and_ChatGPT_the_Origins.ipynb  
-Fake_News_Analysis_with_ChatGPT.ipynb  
-Fake_News.ipynb  
-Fine_tuning_GPT_3.ipynb  
-KantaiBERT_Recommender.ipynb    
-🐬ChatGPT or davinin_instruct? What is best for your project?    		
-ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb    
-🐬AI Language Model Comparison    
--Explore various AI language models and their capabilities through this comprehensive notebook    
--Dive into different APIs and functionalities, such as sentiment analysis, entity recognition, syntax analysis, content classification, and AI vision.   
--Discover and compare the offerings of Google Cloud AI Language,Google Cloud AI Vision, OpenAI GPT-4, Google Bard, Microsoft New Bing, ChatGPT Plus-GPT-4,Hugging Face, HuggingGPT, and Google Smart Compose.<br>  	
-Exploring_and_Comparing_Advanced_AI_Technologies.ipynb     
-
+  
 **Part III Computer Vision**  
 
 **Chapter 17: From NLP to Task-Agnostic Transformer Models**  <br>
@@ -113,4 +74,24 @@ Hugging Face
 **Chapter 21 : Analyzing Fake News with Transformers** <br>  			
 Fake_News.ipynb<br>
 Fake_News_Analysis_with_ChatGPT.ipynb<br>  
-ALL_in_One.ipynb  
+ALL_in_One.ipynb 
+
+
+**Appendix V Additional Notebooks or potential chapter notebooks**
+Speaking_with_ChatGPT.ipynb  
+Running_a_Fine_tune_GPT_3.ipynb  
+Fine_tuning_GPT_3.ipynb  
+Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb  
+Exploring_GPT_4_API.ipynb  
+GPT_2_and_ChatGPT_the_Origins.ipynb  
+Fake_News_Analysis_with_ChatGPT.ipynb  
+Fake_News.ipynb  
+Fine_tuning_GPT_3.ipynb  
+KantaiBERT_Recommender.ipynb    
+🐬ChatGPT or davinin_instruct? What is best for your project?    		
+ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb    
+🐬AI Language Model Comparison    
+Exploring_and_Comparing_Advanced_AI_Technologies.ipynb         				
+QA.ipynb<br>
+01_Basic_QA_Pipeline.ipynb<br>		
+SentimentAnalysis.ipynb     
