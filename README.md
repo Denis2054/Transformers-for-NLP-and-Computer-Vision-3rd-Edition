@@ -76,6 +76,12 @@ Google_Cloud.ipynb
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
 
 **Appendix V Additional Notebooks or potential chapter notebooks**
+Speaking_with_ChatGPT.ipynb
+Running_a_Fine_tune_GPT_3.ipynb
+Fine_tuning_GPT_3.ipynb
+Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb
+Exploring_GPT_4_API.ipynb
+GPT_2_and_ChatGPT_the_Origins.ipynb
 Fake_News_Analysis_with_ChatGPT.ipynb
 Fake_News.ipynb
 Fine_tuning_GPT_3.ipynb
