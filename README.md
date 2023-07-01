@@ -77,23 +77,23 @@ Google_Cloud.ipynb
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
 
 **Appendix V Additional Notebooks or potential chapter notebooks**
-Speaking_with_ChatGPT.ipynb
-Running_a_Fine_tune_GPT_3.ipynb
-Fine_tuning_GPT_3.ipynb
-Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb
-Exploring_GPT_4_API.ipynb
-GPT_2_and_ChatGPT_the_Origins.ipynb
-Fake_News_Analysis_with_ChatGPT.ipynb
-Fake_News.ipynb
-Fine_tuning_GPT_3.ipynb
-KantaiBERT_Recommender.ipynb  
-🐬ChatGPT or davinin_instruct? What is best for your project?  		
-ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb  
-🐬AI Language Model Comparison  
--Explore various AI language models and their capabilities through this comprehensive notebook  
--Dive into different APIs and functionalities, such as sentiment analysis, entity recognition, syntax analysis, content classification, and AI vision. 
+Speaking_with_ChatGPT.ipynb  
+Running_a_Fine_tune_GPT_3.ipynb  
+Fine_tuning_GPT_3.ipynb  
+Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb  
+Exploring_GPT_4_API.ipynb  
+GPT_2_and_ChatGPT_the_Origins.ipynb  
+Fake_News_Analysis_with_ChatGPT.ipynb  
+Fake_News.ipynb  
+Fine_tuning_GPT_3.ipynb  
+KantaiBERT_Recommender.ipynb    
+🐬ChatGPT or davinin_instruct? What is best for your project?    		
+ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb    
+🐬AI Language Model Comparison    
+-Explore various AI language models and their capabilities through this comprehensive notebook    
+-Dive into different APIs and functionalities, such as sentiment analysis, entity recognition, syntax analysis, content classification, and AI vision.   
 -Discover and compare the offerings of Google Cloud AI Language,Google Cloud AI Vision, OpenAI GPT-4, Google Bard, Microsoft New Bing, ChatGPT Plus-GPT-4,Hugging Face, HuggingGPT, and Google Smart Compose.<br>  	
-Exploring_and_Comparing_Advanced_AI_Technologies.ipynb  
+Exploring_and_Comparing_Advanced_AI_Technologies.ipynb     
 
 **Part III Computer Vision**  
 
