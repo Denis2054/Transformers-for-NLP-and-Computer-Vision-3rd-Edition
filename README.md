@@ -69,6 +69,9 @@ QA.ipynb<br>
 **Chapter xx Detecting Customer Emotions to Make Predictions** <br>  		
 SentimentAnalysis.ipynb  
 
+**Chapter 14, Exploring Cutting-Edge NLP with Google Vertex AI and PaLM 2**
+Google_Cloud.ipynb
+
 **Chapter 15, Guarding the Giants: Mitigating Risks in Large Language Models**
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
 
