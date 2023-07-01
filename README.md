@@ -69,10 +69,12 @@ QA.ipynb<br>
 **Chapter xx Detecting Customer Emotions to Make Predictions** <br>  		
 SentimentAnalysis.ipynb  
 
-**Chapter 16 : From Copilots to Pilots**
+**Chapter 15, Guarding the Giants: Mitigating Risks in Large Language Models**
+Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
+
+**Appendix V Additional Notebooks or potential chapter notebooks**
 KantaiBERT_Recommender.ipynb  
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
- 
 🐬ChatGPT or davinin_instruct? What is best for your project?  		
 ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb  
 🐬AI Language Model Comparison  
