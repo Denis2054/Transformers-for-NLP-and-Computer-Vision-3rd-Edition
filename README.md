@@ -53,9 +53,6 @@ Domain_Specific_GPT_3_Functionality.ipynb
 🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
 XAI_by_ChatGPT_for_ChatGPT.ipynb  
 
-**Chapter 14, Exploring Cutting-Edge NLP with Google Vertex AI and PaLM 2**  
-Google_Cloud.ipynb
-
 **Chapter 15, Guarding the Giants: Mitigating Risks in Large Language Models**   
 Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
   
