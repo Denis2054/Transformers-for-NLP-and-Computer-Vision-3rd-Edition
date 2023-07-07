@@ -67,7 +67,7 @@ Hugging Face
 **Chapter 20: CV**
 **Chapter 21 : Analyzing Fake News with Transformers** <br>  			
 Fake_News.ipynb<br>
-Fake_News_Analysis_with_ChatGPT.ipynb<br>  
+Fake_News_Analysis_with_ChatGPT.ipynb    
 ALL_in_One.ipynb 
 
 
