@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: July 5, 2023
+Last updated: July 7, 2023
 
 📗**Ready for review**
 
@@ -31,6 +31,8 @@ Last updated: July 5, 2023
 | <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter09/BertViz_Interactive.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter09/Hugging_Face_SHAP.ipynb)
  **Chapter 10: Investigating the Role of Tokenizers in Shaping Transformer Models**
 | <ul><li>Tokenizers.ipynb</li><li>Sub_word_tokenizers.ipynb</li><li>Exploring_tokenizers.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter10/Tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter10/Sub_word_tokenizers.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter10/Exploring_tokenizers.ipynb)|
+ **Chapter 11: Leveraging LLM Embeddings as an Alternative to Fine-Tuning**
+ | <ul><li>Embedding_with_NLKT_Gensim.ipynb</li><li>Question_answering_with_embeddings.ipynb</li><li>Transfer_Learning_with_Ada_Embeddings.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter11/Embedding_with_NLKT_Gensim.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter11/Question_answering_with_embeddings.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter11/Transfer_Learning_with_Ada_Embeddings.ipynb)|
  **Chapter 12: Towards Syntax-Free Semantic Role Labeling with BERT and OpenAI's ChatGPT**
 | <ul><li>AllenNLP_SRL.ipynb</li><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter12/AllenNLP_SRL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter12/Semantic_Role_Labeling_ChatGPT.ipynb)|
  **Chapter 13: Summarization with T5 and ChatGPT**
