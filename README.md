@@ -50,16 +50,6 @@ Last updated: July 7, 2023
 **The titles, content, and order are subject to change until they
 are transferred to the "Ready for review" section.**
 
-**Part II The Rise of Suprahuman Transformers**  <br>   
- 
-**Chapter 11: Embedding**  
-Domain_Specific_GPT_3_Functionality.ipynb  
-🐬Create a ChatGPT XAI function that explains ChatGPT and an XAI SHAP function  
-XAI_by_ChatGPT_for_ChatGPT.ipynb  
-
-**Chapter 15, Guarding the Giants: Mitigating Risks in Large Language Models**   
-Prompt_Engineering_as_an_alternative_to_fine_tuning.ipynb 
-  
 **Part III Computer Vision**  
 
 **Chapter 17: From NLP to Task-Agnostic Transformer Models**  <br>
