@@ -71,7 +71,7 @@ Fake_News_Analysis_with_ChatGPT.ipynb
 ALL_in_One.ipynb 
 
 
-**Appendix V Additional Notebooks or potential chapter notebooks**
+**Appendix I Additional Notebooks or potential chapter notebooks**
 Speaking_with_ChatGPT.ipynb  
 Running_a_Fine_tune_GPT_3.ipynb  
 Fine_tuning_GPT_3.ipynb  
