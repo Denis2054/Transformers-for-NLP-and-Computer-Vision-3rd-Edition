@@ -49,7 +49,7 @@ Last updated: July 12, 2023
 | Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
 | ----- | ----- | ------ | -------- | ------------------- |
 | | | | | |
-Part I & 2 Natural Language Processing 
+**Part I & 2 Natural Language Processing** 
 The journey from GPT-2 to ChatGPT-3 and davinci
 | <ul><li>GPT_2_and_ChatGPT_the_Origins.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/GPT_2_and_ChatGPT_the_Origins.ipynb)|
 Running a Fine-tuned custom GPT-3 model through OpenAI's standard API
@@ -60,7 +60,7 @@ Exploring GPT-4 alongside GPT-3 models such as davinci with OpenAI's API
 | <ul><li>Exploring_GPT_4_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Exploring_GPT_4_API.ipynb)| 
 Google Cloud AI API for NLP Tasks
 | <ul><li>Google_Cloud.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Cloud.ipynb)|
-Part 3 Computer Vision
+**Part 3 Computer Vision**
 
 📘**Work in Progress** 
 
