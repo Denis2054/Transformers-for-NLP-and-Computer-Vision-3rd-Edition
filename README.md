@@ -49,16 +49,18 @@ Last updated: July 12, 2023
 | Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
 | ----- | ----- | ------ | -------- | ------------------- |
 | | | | | |
+Part I & 2 Natural Language Processing 
 The journey from GPT-2 to ChatGPT-3 and davinci
 | <ul><li>GPT_2_and_ChatGPT_the_Origins.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/GPT_2_and_ChatGPT_the_Origins.ipynb)|
 Running a Fine-tuned custom GPT-3 model through OpenAI's standard API
 | <ul><li>Running_a_Fine_tune_GPT_3.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Running_a_Fine_tune_GPT_3.ipynb)| 
 Adding speech-to-text and text-to-speech in a dialog with OpenAI's API
-| <ul><li>Speaking_with_ChatGPT.ipyn</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Speaking_with_ChatGPT.ipyn)|
+| <ul><li>Speaking_with_ChatGPT.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Speaking_with_ChatGPT.ipynb)| 
 Exploring GPT-4 alongside GPT-3 models such as davinci with OpenAI's API
 | <ul><li>Exploring_GPT_4_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Exploring_GPT_4_API.ipynb)| 
 Google Cloud AI API for NLP Tasks
 | <ul><li>Google_Cloud.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Cloud.ipynb)|
+Part 3 Computer Vision
 
 📘**Work in Progress** 
 
@@ -67,40 +69,12 @@ are transferred to the "Ready for review" section.**
 
 **Part III Computer Vision**  
 
-**Chapter 17: From NLP to Task-Agnostic Transformer Models**  <br>
-Vision_Transformers.ipynb  
-DALL_E.ipynb  
-Vision_Transformer_MLP_Mixer.ipynb<br>
-DiT, Diffusion Transformer
+**Chapter 17: The Art of Prompt** 
 
-**Chapter 18: Prompt Art**  
-Getting_Started_with_the_DALL_E_2_API.ipynb  
+**Chapter 18: Training CV models and more**  
 
-**Chapter 19: Fine-Tuning and training CV**   
-Hugging Face  
+**Chapter 19: HuggingGPT and more**   
 
-**Chapter 20: CV**
-**Chapter 21 : Analyzing Fake News with Transformers** <br>  			
-Fake_News.ipynb<br>
-Fake_News_Analysis_with_ChatGPT.ipynb    
-ALL_in_One.ipynb 
+**Chapter 20: TimeSformer and more**
 
 
-**Appendix I Additional Notebooks or potential chapter notebooks**
-Speaking_with_ChatGPT.ipynb  
-Running_a_Fine_tune_GPT_3.ipynb  
-Fine_tuning_GPT_3.ipynb  
-Jump_Starting_ChatGPT_with_the_OpenAI_API.ipynb  
-Exploring_GPT_4_API.ipynb  
-GPT_2_and_ChatGPT_the_Origins.ipynb  
-Fake_News_Analysis_with_ChatGPT.ipynb  
-Fake_News.ipynb  
-Fine_tuning_GPT_3.ipynb  
-KantaiBERT_Recommender.ipynb    
-🐬ChatGPT or davinin_instruct? What is best for your project?    		
-ChatGPT_as_a_Cobot_ChatGPT_versus_davinci_instruct.ipynb    
-🐬AI Language Model Comparison    
-Exploring_and_Comparing_Advanced_AI_Technologies.ipynb         				
-QA.ipynb<br>
-01_Basic_QA_Pipeline.ipynb<br>		
-SentimentAnalysis.ipynb     
