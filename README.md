@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: July 7, 2023
+Last updated: July 12, 2023
 
 📗**Ready for review**
 
@@ -49,10 +49,15 @@ Last updated: July 7, 2023
 | Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
 | ----- | ----- | ------ | -------- | ------------------- |
 | | | | | |
+The journey from GPT-2 to ChatGPT-3 and davinci
 | <ul><li>GPT_2_and_ChatGPT_the_Origins.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/GPT_2_and_ChatGPT_the_Origins.ipynb)|
+Running a Fine-tuned custom GPT-3 model through OpenAI's standard API
 | <ul><li>Running_a_Fine_tune_GPT_3.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Running_a_Fine_tune_GPT_3.ipynb)| 
+Adding speech-to-text and text-to-speech in a dialog with OpenAI's API
 | <ul><li>Speaking_with_ChatGPT.ipyn</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Speaking_with_ChatGPT.ipyn)|
+Exploring GPT-4 alongside GPT-3 models such as davinci with OpenAI's API
 | <ul><li>Exploring_GPT_4_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Exploring_GPT_4_API.ipynb)| 
+Google Cloud AI API for NLP Tasks
 | <ul><li>Google_Cloud.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Cloud.ipynb)|
 
 📘**Work in Progress** 
