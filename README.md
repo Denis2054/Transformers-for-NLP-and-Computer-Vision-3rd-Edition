@@ -52,11 +52,11 @@ Last updated: July 12, 2023
 **Part I & 2 Natural Language Processing** 
 The journey from GPT-2 to ChatGPT-3 and davinci
 | <ul><li>GPT_2_and_ChatGPT_the_Origins.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/GPT_2_and_ChatGPT_the_Origins.ipynb)|
-Running a Fine-tuned custom GPT-3 model through OpenAI's standard API
+Running a Fine-tuned custom GPT-3 model
 | <ul><li>Running_a_Fine_tune_GPT_3.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Running_a_Fine_tune_GPT_3.ipynb)| 
-Adding speech-to-text and text-to-speech in a dialog with OpenAI's API
+Adding speech-to-text and text-to-speech 
 | <ul><li>Speaking_with_ChatGPT.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Speaking_with_ChatGPT.ipynb)| 
-Exploring GPT-4 alongside GPT-3 models such as davinci with OpenAI's API
+Exploring GPT-4 alongside GPT-3 models such as davinci
 | <ul><li>Exploring_GPT_4_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Exploring_GPT_4_API.ipynb)| 
 Google Cloud AI API for NLP Tasks
 | <ul><li>Google_Cloud.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Cloud.ipynb)|
@@ -68,13 +68,9 @@ Google Cloud AI API for NLP Tasks
 are transferred to the "Ready for review" section.**
 
 **Part III Computer Vision**  
-
-**Chapter 17: The Art of Prompt** 
-
-**Chapter 18: Training CV models and more**  
-
-**Chapter 19: HuggingGPT and more**   
-
-**Chapter 20: TimeSformer and more**
+Chapter 17: The Art of Prompt    
+Chapter 18: Training CV models and more   
+Chapter 19: HuggingGPT and more     
+Chapter 20: TimeSformer and more   
 
 
