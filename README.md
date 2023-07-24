@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: July 19, 2023
+Last updated: July 24, 2023
 
 📗**Ready for review**
 
@@ -36,20 +36,22 @@ Last updated: July 19, 2023
  **Chapter 12: Towards Syntax-Free Semantic Role Labeling with BERT and OpenAI's ChatGPT**
 | <ul><li>AllenNLP_SRL.ipynb</li><li>Semantic_Role_Labeling_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter12/AllenNLP_SRL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter12/Semantic_Role_Labeling_ChatGPT.ipynb)|
  **Chapter 13: Summarization with T5 and ChatGPT**
-| <ul><li>Summerizing_Text_T5.ipynb</li><li>Summarizing_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter13/Summerizing_Text_T5.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter13/Summarizing_ChatGPT.ipynb)
+| <ul><li>Summerizing_Text_T5.ipynb</li><li>Summarizing_ChatGPT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter13/Summerizing_Text_T5.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter13/Summarizing_ChatGPT.ipynb)|
  **Chapter 14: Exploring Cutting-Edge NLP with Google Vertex AI and PaLM 2**
 | <ul><li>Google_Vertex_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter14/Google_Vertex_AI.ipynb) |
  **Chapter 15: Guarding the Giants: Mitigating Risks in Large Language Models**
 | <ul><li>Mitigating_Generative_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter15/Mitigating_Generative_AI.ipynb) |
- **Part III: Computer Vision(title pending)**
+ **Part III: Generative Computer Vision: A New Way to See the World**
  **Chapter 16: Vision Transformers in the Dawn of Revolutionary AI**
 | <ul><li>ViT_CLIP.ipynb</li><li>DALL-E_Architecture.ipynb</li><li>Getting_Started_DALL_E_2_API.ipynb</li><li>ViT_Playground.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/ViT_CLIP.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/DALL_E_Architecture.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/Getting_Started_DALL_E_2_API.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/ViT_Playground.ipynb)|
+ **Chapter 18: Generative AI Ideation with Vertex AI, Langchain, and Stable Diffusion**
+| <ul><li>Google_Vertex_Generative_AI_Ideation.ipynb</li><li>Generative_Ideation_with_Stable_Diffusion.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter18/Google_Vertex_Generative_AI_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter18/Generative_Ideation_with_Stable_Diffusion.ipynb)|
 ## Additional OpenAI Bonus Notebooks 
 
 | Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
 | ----- | ----- | ------ | -------- | ------------------- |
 | | | | | |
-**Part I & 2 Natural Language Processing** 
+**Part I & II Natural Language Processing** 
 The journey from GPT-2 to ChatGPT-3 and davinci
 | <ul><li>GPT_2_and_ChatGPT_the_Origins.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/GPT_2_and_ChatGPT_the_Origins.ipynb)|
 Running a Fine-tuned custom GPT-3 model
@@ -60,17 +62,7 @@ Exploring GPT-4 alongside GPT-3 models such as davinci
 | <ul><li>Exploring_GPT_4_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Exploring_GPT_4_API.ipynb)| 
 Google Cloud AI API for NLP Tasks
 | <ul><li>Google_Cloud.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Cloud.ipynb)|
-**Part 3 Computer Vision**
-
-📘**Work in Progress** 
-
-**The titles, content, and order are subject to change until they
-are transferred to the "Ready for review" section.**
-
-**Part III Computer Vision**  
-Chapter 17: The Art of Prompt    
-Chapter 18: Training CV models and more   
-Chapter 19: HuggingGPT and more     
-Chapter 20: TimeSformer and more   
+**Part III Generative Computer Vision: A New Way to See the World**
+ 
 
 
