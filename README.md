@@ -60,9 +60,7 @@ Adding speech-to-text and text-to-speech
 | <ul><li>Speaking_with_ChatGPT.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Speaking_with_ChatGPT.ipynb)| 
 Exploring GPT-4 alongside GPT-3 models such as davinci
 | <ul><li>Exploring_GPT_4_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Exploring_GPT_4_API.ipynb)| 
-Google Cloud AI API for NLP Tasks
-| <ul><li>Google_Cloud.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Cloud.ipynb)|
-**Part III Generative Computer Vision: A New Way to See the World**
+ **Part III: Generative Computer Vision: A New Way to See the World**
  
 
 
