@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: July 24, 2023
+Last updated: July 25, 2023
 
 📗**Ready for review**
 
@@ -40,7 +40,7 @@ Last updated: July 24, 2023
  **Chapter 14: Exploring Cutting-Edge NLP with Google Vertex AI and PaLM 2**
 | <ul><li>Google_Vertex_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter14/Google_Vertex_AI.ipynb) |
  **Chapter 15: Guarding the Giants: Mitigating Risks in Large Language Models**
-| <ul><li>Mitigating_Generative_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter15/Mitigating_Generative_AI.ipynb) |
+| <ul><li>Auto_Big_bench.ipynb</li><li>Mitigating_Generative_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter15/Auto_Big_bench.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter15/Mitigating_Generative_AI.ipynb)|
  **Part III: Generative Computer Vision: A New Way to See the World**
  **Chapter 16: Vision Transformers in the Dawn of Revolutionary AI**
 | <ul><li>ViT_CLIP.ipynb</li><li>Getting_Started_DALL_E_2_API.ipynb</li><li>ViT_Playground.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/ViT_CLIP.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/Getting_Started_DALL_E_2_API.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/ViT_Playground.ipynb)|
