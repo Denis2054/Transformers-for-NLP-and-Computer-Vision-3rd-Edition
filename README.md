@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: August 10, 2023
+Last updated: August 11, 2023
 
 📗**Ready for review**
 
@@ -46,8 +46,8 @@ Last updated: August 10, 2023
 | <ul><li>ViT_CLIP.ipynb</li><li>Getting_Started_DALL_E_2_API.ipynb</li><li>ViT_Playground.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/ViT_CLIP.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/Getting_Started_DALL_E_2_API.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter16/ViT_Playground.ipynb)|
  **Chapter 18: Automated Vision Transformer Training**
 | <ul><li>Hugging_Face_AutoTrain.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter18/Hugging_Face_AutoTrain.ipynb) |
- **Chapter 19: Generative AI Ideation Vertex AI, Langchain, and Stable Diffusion**
-| <ul><li>Google_Vertex_Generative_AI_Ideation.ipynb</li><li>Generative_Ideation_with_Stable_Diffusion.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter19/Google_Vertex_Generative_AI_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter19/Generative_Ideation_with_Stable_Diffusion.ipynb)|
+ **Chapter 20: Generative AI Ideation Vertex AI, Langchain, and Stable Diffusion**
+| <ul><li>Google_Vertex_Generative_AI_Ideation.ipynb</li><li>Generative_Ideation_with_Stable_Diffusion.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Google_Vertex_Generative_AI_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Generative_Ideation_with_Stable_Diffusion.ipynb)|
 ## Additional OpenAI Bonus Notebooks 
 
 | Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
