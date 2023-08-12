@@ -1,0 +1,660 @@
+{
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 153
+            },
+            {
+              "x": 972
+            },
+            {
+              "x": 972,
+              "y": 1023
+            },
+            {
+              "x": 153,
+              "y": 1023
+            }
+          ]
+        },
+        "confidence": 0.1647949,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 1023
+            },
+            {
+              "x": 1023,
+              "y": 1023
+            },
+            {
+              "y": 1023
+            }
+          ]
+        },
+        "confidence": 0.13183594,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 153
+            },
+            {
+              "x": 1023,
+              "y": 153
+            },
+            {
+              "x": 1023,
+              "y": 1006
+            },
+            {
+              "y": 1006
+            }
+          ]
+        },
+        "confidence": 0.15820311,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "blocks": [
+          {
+            "blockType": "TEXT",
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 843,
+                  "y": 384
+                },
+                {
+                  "x": 874,
+                  "y": 382
+                },
+                {
+                  "x": 875,
+                  "y": 395
+                },
+                {
+                  "x": 844,
+                  "y": 398
+                }
+              ]
+            },
+            "confidence": 0.33216316,
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 843,
+                      "y": 384
+                    },
+                    {
+                      "x": 874,
+                      "y": 382
+                    },
+                    {
+                      "x": 875,
+                      "y": 395
+                    },
+                    {
+                      "x": 844,
+                      "y": 398
+                    }
+                  ]
+                },
+                "confidence": 0.33216316,
+                "words": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 843,
+                          "y": 384
+                        },
+                        {
+                          "x": 874,
+                          "y": 382
+                        },
+                        {
+                          "x": 875,
+                          "y": 395
+                        },
+                        {
+                          "x": 844,
+                          "y": 398
+                        }
+                      ]
+                    },
+                    "confidence": 0.33216316,
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 843,
+                              "y": 384
+                            },
+                            {
+                              "x": 874,
+                              "y": 382
+                            },
+                            {
+                              "x": 875,
+                              "y": 395
+                            },
+                            {
+                              "x": 844,
+                              "y": 398
+                            }
+                          ]
+                        },
+                        "confidence": 0.33216316,
+                        "property": {
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "text": "才"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "confidence": 0.33216316,
+        "height": 1024,
+        "width": 1024
+      }
+    ],
+    "text": "才"
+  },
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 153
+            },
+            {
+              "x": 972
+            },
+            {
+              "x": 972,
+              "y": 1023
+            },
+            {
+              "x": 153,
+              "y": 1023
+            }
+          ]
+        },
+        "confidence": 0.1647949,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 1023
+            },
+            {
+              "x": 1023,
+              "y": 1023
+            },
+            {
+              "y": 1023
+            }
+          ]
+        },
+        "confidence": 0.13183594,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 153
+            },
+            {
+              "x": 1023,
+              "y": 153
+            },
+            {
+              "x": 1023,
+              "y": 1006
+            },
+            {
+              "y": 1006
+            }
+          ]
+        },
+        "confidence": 0.15820311,
+        "importanceFraction": 1
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 102,
+            "green": 94,
+            "red": 67
+          },
+          "hex": "435E66",
+          "percent": 48.939386692883836,
+          "percentRounded": 49,
+          "pixelFraction": 0.104888886,
+          "rgb": "67, 94,\n 102",
+          "score": 0.48939386
+        },
+        {
+          "color": {
+            "blue": 26,
+            "green": 22,
+            "red": 14
+          },
+          "hex": "0E161A",
+          "percent": 8.974350127058848,
+          "percentRounded": 9,
+          "pixelFraction": 0.53128886,
+          "rgb": "14, 22,\n 26",
+          "score": 0.0897435
+        },
+        {
+          "color": {
+            "blue": 100,
+            "green": 90,
+            "red": 63
+          },
+          "hex": "3F5A64",
+          "percent": 18.937895268122716,
+          "percentRounded": 19,
+          "pixelFraction": 0.16137777,
+          "rgb": "63, 90,\n 100",
+          "score": 0.18937895
+        },
+        {
+          "color": {
+            "blue": 118,
+            "green": 110,
+            "red": 81
+          },
+          "hex": "516E76",
+          "percent": 18.65470126411326,
+          "percentRounded": 19,
+          "pixelFraction": 0.03542222,
+          "rgb": "81, 110,\n 118",
+          "score": 0.18654701
+        },
+        {
+          "color": {
+            "blue": 118,
+            "green": 108,
+            "red": 78
+          },
+          "hex": "4E6C76",
+          "percent": 3.2228176456286515,
+          "percentRounded": 3,
+          "pixelFraction": 0.010088889,
+          "rgb": "78, 108,\n 118",
+          "score": 0.032228176
+        },
+        {
+          "color": {
+            "blue": 53,
+            "green": 45,
+            "red": 32
+          },
+          "hex": "202D35",
+          "percent": 1.0409428147376683,
+          "percentRounded": 1,
+          "pixelFraction": 0.0688,
+          "rgb": "32, 45,\n 53",
+          "score": 0.010409428
+        },
+        {
+          "color": {
+            "blue": 100,
+            "green": 92,
+            "red": 62
+          },
+          "hex": "3E5C64",
+          "percent": 0.11470648162401435,
+          "percentRounded": 0,
+          "pixelFraction": 0.00035555556,
+          "rgb": "62, 92,\n 100",
+          "score": 0.0011470648
+        },
+        {
+          "color": {
+            "blue": 78,
+            "green": 67,
+            "red": 45
+          },
+          "hex": "2D434E",
+          "percent": 0.10933724154799664,
+          "percentRounded": 0,
+          "pixelFraction": 0.0872,
+          "rgb": "45, 67,\n 78",
+          "score": 0.0010933724
+        },
+        {
+          "color": {
+            "blue": 46,
+            "green": 34,
+            "red": 28
+          },
+          "hex": "1C222E",
+          "percent": 0.005862464283000769,
+          "percentRounded": 0,
+          "pixelFraction": 0.0005777778,
+          "rgb": "28, 34,\n 46",
+          "score": 0.000058624642
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Cloud",
+      "mid": "/m/0csby",
+      "score": 0.9574132,
+      "topicality": 0.9574132
+    },
+    {
+      "description": "Atmosphere",
+      "mid": "/m/01ctsf",
+      "score": 0.9481808,
+      "topicality": 0.9481808
+    },
+    {
+      "description": "Sky",
+      "mid": "/m/01bqvp",
+      "score": 0.9450392,
+      "topicality": 0.9450392
+    },
+    {
+      "description": "Water",
+      "mid": "/m/0838f",
+      "score": 0.93845177,
+      "topicality": 0.93845177
+    },
+    {
+      "description": "Fog",
+      "mid": "/m/0g2z8",
+      "score": 0.85057557,
+      "topicality": 0.85057557
+    },
+    {
+      "description": "Vehicle",
+      "mid": "/m/07yv9",
+      "score": 0.8487662,
+      "topicality": 0.8487662
+    },
+    {
+      "description": "Grey",
+      "mid": "/m/036k5h",
+      "score": 0.8415509,
+      "topicality": 0.8415509
+    },
+    {
+      "description": "Automotive lighting",
+      "mid": "/m/0768fx",
+      "score": 0.8315086,
+      "topicality": 0.8315086
+    },
+    {
+      "description": "Atmospheric phenomenon",
+      "mid": "/m/07pw27b",
+      "score": 0.83089644,
+      "topicality": 0.83089644
+    },
+    {
+      "description": "Electricity",
+      "mid": "/m/02lts",
+      "score": 0.8292839,
+      "topicality": 0.8292839
+    },
+    {
+      "description": "Road surface",
+      "mid": "/m/01k0mv",
+      "score": 0.81430155,
+      "topicality": 0.81430155
+    },
+    {
+      "description": "Landscape",
+      "mid": "/m/025s3q0",
+      "score": 0.76485986,
+      "topicality": 0.76485986
+    },
+    {
+      "description": "Dusk",
+      "mid": "/m/01b3l7",
+      "score": 0.7580243,
+      "topicality": 0.7580243
+    },
+    {
+      "description": "Track",
+      "mid": "/m/01vk9q",
+      "score": 0.75257367,
+      "topicality": 0.75257367
+    },
+    {
+      "description": "Horizon",
+      "mid": "/m/0d1n2",
+      "score": 0.7465884,
+      "topicality": 0.7465884
+    },
+    {
+      "description": "Asphalt",
+      "mid": "/m/0hr8",
+      "score": 0.7441029,
+      "topicality": 0.7441029
+    },
+    {
+      "description": "Haze",
+      "mid": "/m/03xxq7",
+      "score": 0.730276,
+      "topicality": 0.730276
+    },
+    {
+      "description": "Road",
+      "mid": "/m/06gfj",
+      "score": 0.7246857,
+      "topicality": 0.7246857
+    },
+    {
+      "description": "Mist",
+      "mid": "/m/01bqwh",
+      "score": 0.716356,
+      "topicality": 0.716356
+    },
+    {
+      "description": "Midnight",
+      "mid": "/m/01kv7h",
+      "score": 0.7161266,
+      "topicality": 0.7161266
+    },
+    {
+      "description": "Overhead power line",
+      "mid": "/m/04w7nv",
+      "score": 0.6841561,
+      "topicality": 0.6841561
+    },
+    {
+      "description": "Darkness",
+      "mid": "/m/01kyr8",
+      "score": 0.68261886,
+      "topicality": 0.68261886
+    },
+    {
+      "description": "Tree",
+      "mid": "/m/07j7r",
+      "score": 0.6775852,
+      "topicality": 0.6775852
+    },
+    {
+      "description": "Public utility",
+      "mid": "/m/016znt",
+      "score": 0.66129965,
+      "topicality": 0.66129965
+    },
+    {
+      "description": "Nonbuilding structure",
+      "mid": "/m/0df8xq",
+      "score": 0.6429359,
+      "topicality": 0.6429359
+    },
+    {
+      "description": "Evening",
+      "mid": "/m/04mx32",
+      "score": 0.640874,
+      "topicality": 0.640874
+    },
+    {
+      "description": "Dawn",
+      "mid": "/m/01b3kg",
+      "score": 0.63777184,
+      "topicality": 0.63777184
+    },
+    {
+      "description": "Symmetry",
+      "mid": "/m/0f28m",
+      "score": 0.6156722,
+      "topicality": 0.6156722
+    },
+    {
+      "description": "Natural landscape",
+      "mid": "/m/03d28y3",
+      "score": 0.6129603,
+      "topicality": 0.6129603
+    },
+    {
+      "description": "Ocean",
+      "mid": "/m/05kq4",
+      "score": 0.60330075,
+      "topicality": 0.60330075
+    },
+    {
+      "description": "Freeway",
+      "mid": "/m/0335j",
+      "score": 0.602228,
+      "topicality": 0.602228
+    },
+    {
+      "description": "Highway",
+      "mid": "/m/0cz_0",
+      "score": 0.60121566,
+      "topicality": 0.60121566
+    },
+    {
+      "description": "Lane",
+      "mid": "/m/033j3c",
+      "score": 0.58731353,
+      "topicality": 0.58731353
+    },
+    {
+      "description": "Night",
+      "mid": "/m/01d74z",
+      "score": 0.57648975,
+      "topicality": 0.57648975
+    },
+    {
+      "description": "Monochrome",
+      "mid": "/m/01mwkf",
+      "score": 0.55606586,
+      "topicality": 0.55606586
+    },
+    {
+      "description": "Lens flare",
+      "mid": "/m/017bm6",
+      "score": 0.5551087,
+      "topicality": 0.5551087
+    },
+    {
+      "description": "Road trip",
+      "mid": "/m/0cnfpz",
+      "score": 0.52795446,
+      "topicality": 0.52795446
+    },
+    {
+      "description": "Electrical supply",
+      "mid": "/m/0cmsl0l",
+      "score": 0.50519717,
+      "topicality": 0.50519717
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  },
+  "textAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 843,
+            "y": 381
+          },
+          {
+            "x": 875,
+            "y": 381
+          },
+          {
+            "x": 875,
+            "y": 398
+          },
+          {
+            "x": 843,
+            "y": 398
+          }
+        ]
+      },
+      "description": "才",
+      "locale": "und"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 843,
+            "y": 384
+          },
+          {
+            "x": 874,
+            "y": 382
+          },
+          {
+            "x": 875,
+            "y": 395
+          },
+          {
+            "x": 844,
+            "y": 398
+          }
+        ]
+      },
+      "description": "才"
+    }
+  ]
+}
