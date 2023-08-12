@@ -1,0 +1,601 @@
+{
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 101
+            },
+            {
+              "x": 488
+            },
+            {
+              "x": 488,
+              "y": 483
+            },
+            {
+              "x": 101,
+              "y": 483
+            }
+          ]
+        },
+        "confidence": 0.24984059,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 23
+            },
+            {
+              "x": 507
+            },
+            {
+              "x": 507,
+              "y": 483
+            },
+            {
+              "x": 23,
+              "y": 483
+            }
+          ]
+        },
+        "confidence": 0.19987248,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 30
+            },
+            {
+              "x": 507,
+              "y": 30
+            },
+            {
+              "x": 507,
+              "y": 453
+            },
+            {
+              "y": 453
+            }
+          ]
+        },
+        "confidence": 0.21771961,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 101
+            },
+            {
+              "x": 488
+            },
+            {
+              "x": 488,
+              "y": 483
+            },
+            {
+              "x": 101,
+              "y": 483
+            }
+          ]
+        },
+        "confidence": 0.24984059,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 23
+            },
+            {
+              "x": 507
+            },
+            {
+              "x": 507,
+              "y": 483
+            },
+            {
+              "x": 23,
+              "y": 483
+            }
+          ]
+        },
+        "confidence": 0.19987248,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 30
+            },
+            {
+              "x": 507,
+              "y": 30
+            },
+            {
+              "x": 507,
+              "y": 453
+            },
+            {
+              "y": 453
+            }
+          ]
+        },
+        "confidence": 0.21771961,
+        "importanceFraction": 1
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 91,
+            "green": 91,
+            "red": 60
+          },
+          "hex": "3C5B5B",
+          "percent": 32.073692612509625,
+          "percentRounded": 32,
+          "pixelFraction": 0.031267177,
+          "rgb": "60, 91,\n 91",
+          "score": 0.32027385
+        },
+        {
+          "color": {
+            "blue": 70,
+            "green": 64,
+            "red": 42
+          },
+          "hex": "2A4046",
+          "percent": 10.80856327395217,
+          "percentRounded": 11,
+          "pixelFraction": 0.07871756,
+          "rgb": "42, 64,\n 70",
+          "score": 0.10792958
+        },
+        {
+          "color": {
+            "blue": 119,
+            "green": 120,
+            "red": 88
+          },
+          "hex": "587877",
+          "percent": 26.628055266657334,
+          "percentRounded": 27,
+          "pixelFraction": 0.021435114,
+          "rgb": "88, 120,\n 119",
+          "score": 0.2658961
+        },
+        {
+          "color": {
+            "blue": 74,
+            "green": 64,
+            "red": 40
+          },
+          "hex": "28404A",
+          "percent": 9.261597783740989,
+          "percentRounded": 9,
+          "pixelFraction": 0.23938932,
+          "rgb": "40, 64,\n 74",
+          "score": 0.09248226
+        },
+        {
+          "color": {
+            "blue": 84,
+            "green": 79,
+            "red": 55
+          },
+          "hex": "374F54",
+          "percent": 7.4333246449224415,
+          "percentRounded": 7,
+          "pixelFraction": 0.00989313,
+          "rgb": "55, 79,\n 84",
+          "score": 0.074225925
+        },
+        {
+          "color": {
+            "blue": 65,
+            "green": 65,
+            "red": 35
+          },
+          "hex": "234141",
+          "percent": 6.430888840136722,
+          "percentRounded": 6,
+          "pixelFraction": 0.009099237,
+          "rgb": "35, 65,\n 65",
+          "score": 0.06421604
+        },
+        {
+          "color": {
+            "blue": 158,
+            "green": 161,
+            "red": 130
+          },
+          "hex": "82A19E",
+          "percent": 4.117638797484141,
+          "percentRounded": 4,
+          "pixelFraction": 0.0036030535,
+          "rgb": "130, 161,\n 158",
+          "score": 0.041116938
+        },
+        {
+          "color": {
+            "blue": 83,
+            "green": 74,
+            "red": 47
+          },
+          "hex": "2F4A53",
+          "percent": 1.9464704907368797,
+          "percentRounded": 2,
+          "pixelFraction": 0.0018320611,
+          "rgb": "47, 74,\n 83",
+          "score": 0.019436602
+        },
+        {
+          "color": {
+            "blue": 191,
+            "green": 194,
+            "red": 163
+          },
+          "hex": "A3C2BF",
+          "percent": 0.9236851054710578,
+          "percentRounded": 1,
+          "pixelFraction": 0.0010992367,
+          "rgb": "163, 194,\n 191",
+          "score": 0.009223515
+        },
+        {
+          "color": {
+            "blue": 118,
+            "green": 114,
+            "red": 91
+          },
+          "hex": "5B7276",
+          "percent": 0.376083184388622,
+          "percentRounded": 0,
+          "pixelFraction": 0.00054961833,
+          "rgb": "91, 114,\n 118",
+          "score": 0.003755402
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Car",
+      "mid": "/m/0k4j",
+      "score": 0.9548163,
+      "topicality": 0.9548163
+    },
+    {
+      "description": "Vehicle",
+      "mid": "/m/07yv9",
+      "score": 0.93836826,
+      "topicality": 0.93836826
+    },
+    {
+      "description": "Automotive lighting",
+      "mid": "/m/0768fx",
+      "score": 0.9231679,
+      "topicality": 0.9231679
+    },
+    {
+      "description": "Road surface",
+      "mid": "/m/01k0mv",
+      "score": 0.87871635,
+      "topicality": 0.87871635
+    },
+    {
+      "description": "Asphalt",
+      "mid": "/m/0hr8",
+      "score": 0.8692946,
+      "topicality": 0.8692946
+    },
+    {
+      "description": "Automotive design",
+      "mid": "/m/068mqj",
+      "score": 0.86414135,
+      "topicality": 0.86414135
+    },
+    {
+      "description": "Headlamp",
+      "mid": "/m/0263qm",
+      "score": 0.86016244,
+      "topicality": 0.86016244
+    },
+    {
+      "description": "Automotive mirror",
+      "mid": "/m/0h8lk4b",
+      "score": 0.8277789,
+      "topicality": 0.8277789
+    },
+    {
+      "description": "Automotive exterior",
+      "mid": "/m/0h8ls87",
+      "score": 0.8243654,
+      "topicality": 0.8243654
+    },
+    {
+      "description": "Motor vehicle",
+      "mid": "/m/012f08",
+      "score": 0.80998427,
+      "topicality": 0.80998427
+    },
+    {
+      "description": "Rolling",
+      "mid": "/m/04c0lt",
+      "score": 0.79794127,
+      "topicality": 0.79794127
+    },
+    {
+      "description": "Thoroughfare",
+      "mid": "/m/0bm8qyq",
+      "score": 0.7938873,
+      "topicality": 0.7938873
+    },
+    {
+      "description": "Tints and shades",
+      "mid": "/m/02q_bfg",
+      "score": 0.76846725,
+      "topicality": 0.76846725
+    },
+    {
+      "description": "Electricity",
+      "mid": "/m/02lts",
+      "score": 0.7672685,
+      "topicality": 0.7672685
+    },
+    {
+      "description": "Road",
+      "mid": "/m/06gfj",
+      "score": 0.76125956,
+      "topicality": 0.76125956
+    },
+    {
+      "description": "Landscape",
+      "mid": "/m/025s3q0",
+      "score": 0.7577118,
+      "topicality": 0.7577118
+    },
+    {
+      "description": "Sky",
+      "mid": "/m/01bqvp",
+      "score": 0.75051504,
+      "topicality": 0.75051504
+    },
+    {
+      "description": "Lens flare",
+      "mid": "/m/017bm6",
+      "score": 0.7312739,
+      "topicality": 0.7312739
+    },
+    {
+      "description": "Auto part",
+      "mid": "/m/08dz3q",
+      "score": 0.72974163,
+      "topicality": 0.72974163
+    },
+    {
+      "description": "Midnight",
+      "mid": "/m/01kv7h",
+      "score": 0.7080015,
+      "topicality": 0.7080015
+    },
+    {
+      "description": "Mist",
+      "mid": "/m/01bqwh",
+      "score": 0.70529056,
+      "topicality": 0.70529056
+    },
+    {
+      "description": "Darkness",
+      "mid": "/m/01kyr8",
+      "score": 0.70363104,
+      "topicality": 0.70363104
+    },
+    {
+      "description": "Haze",
+      "mid": "/m/03xxq7",
+      "score": 0.69643724,
+      "topicality": 0.69643724
+    },
+    {
+      "description": "Windshield",
+      "mid": "/m/01lrnl",
+      "score": 0.69313145,
+      "topicality": 0.69313145
+    },
+    {
+      "description": "Lane",
+      "mid": "/m/033j3c",
+      "score": 0.6773987,
+      "topicality": 0.6773987
+    },
+    {
+      "description": "Automotive window part",
+      "mid": "/m/0h8lhq_",
+      "score": 0.6757916,
+      "topicality": 0.6757916
+    },
+    {
+      "description": "Electric blue",
+      "mid": "/m/02vwbzz",
+      "score": 0.66077894,
+      "topicality": 0.66077894
+    },
+    {
+      "description": "Horizon",
+      "mid": "/m/0d1n2",
+      "score": 0.6592106,
+      "topicality": 0.6592106
+    },
+    {
+      "description": "Fog",
+      "mid": "/m/0g2z8",
+      "score": 0.6533413,
+      "topicality": 0.6533413
+    },
+    {
+      "description": "Vehicle door",
+      "mid": "/m/02q2kc3",
+      "score": 0.6420124,
+      "topicality": 0.6420124
+    },
+    {
+      "description": "Nonbuilding structure",
+      "mid": "/m/0df8xq",
+      "score": 0.6398601,
+      "topicality": 0.6398601
+    },
+    {
+      "description": "Windscreen wiper",
+      "mid": "/m/02417f",
+      "score": 0.6354346,
+      "topicality": 0.6354346
+    },
+    {
+      "description": "Freeway",
+      "mid": "/m/0335j",
+      "score": 0.6323486,
+      "topicality": 0.6323486
+    },
+    {
+      "description": "Personal luxury car",
+      "mid": "/m/01w71f",
+      "score": 0.6321711,
+      "topicality": 0.6321711
+    },
+    {
+      "description": "Driving",
+      "mid": "/m/0kw6d",
+      "score": 0.63164514,
+      "topicality": 0.63164514
+    },
+    {
+      "description": "Highway",
+      "mid": "/m/0cz_0",
+      "score": 0.6282016,
+      "topicality": 0.6282016
+    },
+    {
+      "description": "Luxury vehicle",
+      "mid": "/m/01lcwm",
+      "score": 0.61359656,
+      "topicality": 0.61359656
+    },
+    {
+      "description": "Street light",
+      "mid": "/m/033rq4",
+      "score": 0.61162525,
+      "topicality": 0.61162525
+    },
+    {
+      "description": "Rear-view mirror",
+      "mid": "/m/05j11x",
+      "score": 0.60557485,
+      "topicality": 0.60557485
+    },
+    {
+      "description": "Night",
+      "mid": "/m/01d74z",
+      "score": 0.5994485,
+      "topicality": 0.5994485
+    },
+    {
+      "description": "Light fixture",
+      "mid": "/m/08jpwt",
+      "score": 0.586554,
+      "topicality": 0.586554
+    },
+    {
+      "description": "Road trip",
+      "mid": "/m/0cnfpz",
+      "score": 0.5607521,
+      "topicality": 0.5607521
+    },
+    {
+      "description": "Wheel",
+      "mid": "/m/083wq",
+      "score": 0.5577891,
+      "topicality": 0.5577891
+    },
+    {
+      "description": "Tire",
+      "mid": "/m/0h9mv",
+      "score": 0.5379147,
+      "topicality": 0.5379147
+    },
+    {
+      "description": "Tree",
+      "mid": "/m/07j7r",
+      "score": 0.53786284,
+      "topicality": 0.53786284
+    },
+    {
+      "description": "Automotive tire",
+      "mid": "/m/0h8pb3l",
+      "score": 0.528465,
+      "topicality": 0.528465
+    },
+    {
+      "description": "Winter",
+      "mid": "/m/086mh",
+      "score": 0.5163825,
+      "topicality": 0.5163825
+    },
+    {
+      "description": "Glass",
+      "mid": "/m/039jq",
+      "score": 0.50118834,
+      "topicality": 0.50118834
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.45042682,
+            "y": 0.5822474
+          },
+          {
+            "x": 0.6222728,
+            "y": 0.5822474
+          },
+          {
+            "x": 0.6222728,
+            "y": 0.7122896
+          },
+          {
+            "x": 0.45042682,
+            "y": 0.7122896
+          }
+        ]
+      },
+      "mid": "/m/0k4j",
+      "name": "Car",
+      "score": 0.84152657
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "UNLIKELY"
+  }
+}
+
