@@ -1,0 +1,80 @@
+{
+  "0": {
+    "task": {
+      "task": "image-to-text",
+      "id": 0,
+      "dep": [
+        -1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/nrKJ3jGK/generate-an-image-of-a-car-in-space.jpg"
+      }
+    },
+    "inference result": {
+      "generated text": "a car with a large white object in the back "
+    },
+    "choose model result": {
+      "id": "ydshieh/vit-gpt2-coco-en",
+      "reason": "Only one model available."
+    }
+  },
+  "1": {
+    "task": {
+      "task": "object-detection",
+      "id": 1,
+      "dep": [
+        -1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/nrKJ3jGK/generate-an-image-of-a-car-in-space.jpg"
+      }
+    },
+    "inference result": {
+      "generated image with predicted box": "/images/a7fd.jpg",
+      "predicted": []
+    },
+    "choose model result": {
+      "id": "facebook/detr-resnet-101",
+      "reason": "Only one model available."
+    }
+  },
+  "2": {
+    "task": {
+      "task": "visual-question-answering",
+      "id": 2,
+      "dep": [
+        1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/nrKJ3jGK/generate-an-image-of-a-car-in-space.jpg",
+        "text": "How many cars are in this picture?"
+      }
+    },
+    "inference result": [
+      {
+        "score": 0.9962437152862549,
+        "answer": "1"
+      },
+      {
+        "score": 0.017030367627739906,
+        "answer": "0"
+      },
+      {
+        "score": 0.009522431530058384,
+        "answer": "2"
+      },
+      {
+        "score": 0.001569030457176268,
+        "answer": "3"
+      },
+      {
+        "score": 0.000359362835297361,
+        "answer": "4"
+      }
+    ],
+    "choose model result": {
+      "id": "dandelin/vilt-b32-finetuned-vqa",
+      "reason": "Only one model available."
+    }
+  }
+}
