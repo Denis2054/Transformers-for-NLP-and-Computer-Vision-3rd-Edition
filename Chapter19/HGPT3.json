@@ -1,0 +1,80 @@
+{
+  "0": {
+    "task": {
+      "task": "image-to-text",
+      "id": 0,
+      "dep": [
+        -1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/brp02WCy/car-in-fog.png"
+      }
+    },
+    "inference result": {
+      "generated text": "a dark night with a light on a street "
+    },
+    "choose model result": {
+      "id": "ydshieh/vit-gpt2-coco-en",
+      "reason": "Only one model available."
+    }
+  },
+  "1": {
+    "task": {
+      "task": "object-detection",
+      "id": 1,
+      "dep": [
+        -1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/brp02WCy/car-in-fog.png"
+      }
+    },
+    "inference result": {
+      "generated image with predicted box": "/images/0a15.jpg",
+      "predicted": []
+    },
+    "choose model result": {
+      "id": "facebook/detr-resnet-101",
+      "reason": "Only one model available."
+    }
+  },
+  "2": {
+    "task": {
+      "task": "visual-question-answering",
+      "id": 2,
+      "dep": [
+        1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/brp02WCy/car-in-fog.png",
+        "text": "Is there a car in this image?"
+      }
+    },
+    "inference result": [
+      {
+        "score": 0.9993352293968201,
+        "answer": "no"
+      },
+      {
+        "score": 0.019275549799203873,
+        "answer": "yes"
+      },
+      {
+        "score": 0.0007861475460231304,
+        "answer": "0"
+      },
+      {
+        "score": 0.000450292369350791,
+        "answer": "nowhere"
+      },
+      {
+        "score": 0.0002609568473417312,
+        "answer": "n"
+      }
+    ],
+    "choose model result": {
+      "id": "dandelin/vilt-b32-finetuned-vqa",
+      "reason": "Only one model available."
+    }
+  }
+}
