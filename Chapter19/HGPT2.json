@@ -1,0 +1,91 @@
+{
+  "0": {
+    "task": {
+      "task": "image-to-text",
+      "id": 0,
+      "dep": [
+        -1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/sXp9xsJH/car-in-night.jpg"
+      }
+    },
+    "inference result": {
+      "generated text": "a car is driving down a street at night "
+    },
+    "choose model result": {
+      "id": "ydshieh/vit-gpt2-coco-en",
+      "reason": "Only one model available."
+    }
+  },
+  "1": {
+    "task": {
+      "task": "object-detection",
+      "id": 1,
+      "dep": [
+        -1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/sXp9xsJH/car-in-night.jpg"
+      }
+    },
+    "inference result": {
+      "generated image with predicted box": "/images/7953.jpg",
+      "predicted": [
+        {
+          "score": 0.9988002777099609,
+          "label": "car",
+          "box": {
+            "xmin": 232,
+            "ymin": 284,
+            "xmax": 314,
+            "ymax": 343
+          }
+        }
+      ]
+    },
+    "choose model result": {
+      "id": "facebook/detr-resnet-101",
+      "reason": "Only one model available."
+    }
+  },
+  "2": {
+    "task": {
+      "task": "visual-question-answering",
+      "id": 2,
+      "dep": [
+        1
+      ],
+      "args": {
+        "image": "https://i.postimg.cc/sXp9xsJH/car-in-night.jpg",
+        "text": "Is there a car in this picture?"
+      }
+    },
+    "inference result": [
+      {
+        "score": 0.9839207530021667,
+        "answer": "yes"
+      },
+      {
+        "score": 0.1481371521949768,
+        "answer": "no"
+      },
+      {
+        "score": 0.0011159408604726195,
+        "answer": "truck"
+      },
+      {
+        "score": 0.0007085313554853201,
+        "answer": "1"
+      },
+      {
+        "score": 0.000319453829433769,
+        "answer": "can't tell"
+      }
+    ],
+    "choose model result": {
+      "id": "dandelin/vilt-b32-finetuned-vqa",
+      "reason": "Only one model available."
+    }
+  }
+}
