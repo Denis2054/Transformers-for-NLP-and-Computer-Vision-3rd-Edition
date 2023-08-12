@@ -1,0 +1,681 @@
+{
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 22
+            },
+            {
+              "x": 201
+            },
+            {
+              "x": 201,
+              "y": 223
+            },
+            {
+              "x": 22,
+              "y": 223
+            }
+          ]
+        },
+        "confidence": 0.3808594,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 223
+            },
+            {
+              "x": 223,
+              "y": 223
+            },
+            {
+              "y": 223
+            }
+          ]
+        },
+        "confidence": 0.3046875,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 33
+            },
+            {
+              "x": 223,
+              "y": 33
+            },
+            {
+              "x": 223,
+              "y": 220
+            },
+            {
+              "y": 220
+            }
+          ]
+        },
+        "confidence": 0.365625,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 22
+            },
+            {
+              "x": 201
+            },
+            {
+              "x": 201,
+              "y": 223
+            },
+            {
+              "x": 22,
+              "y": 223
+            }
+          ]
+        },
+        "confidence": 0.3808594,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 223
+            },
+            {
+              "x": 223,
+              "y": 223
+            },
+            {
+              "y": 223
+            }
+          ]
+        },
+        "confidence": 0.3046875,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 33
+            },
+            {
+              "x": 223,
+              "y": 33
+            },
+            {
+              "x": 223,
+              "y": 220
+            },
+            {
+              "y": 220
+            }
+          ]
+        },
+        "confidence": 0.365625,
+        "importanceFraction": 1
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 241,
+            "green": 242,
+            "red": 241
+          },
+          "hex": "F1F2F1",
+          "percent": 48.4934654201615,
+          "percentRounded": 48,
+          "pixelFraction": 0.10005144,
+          "rgb": "241, 242,\n 241",
+          "score": 0.46907625
+        },
+        {
+          "color": {
+            "blue": 17,
+            "green": 15,
+            "red": 16
+          },
+          "hex": "100F11",
+          "percent": 3.829727821024205,
+          "percentRounded": 4,
+          "pixelFraction": 0.7570302,
+          "rgb": "16, 15,\n 17",
+          "score": 0.037044875
+        },
+        {
+          "color": {
+            "blue": 88,
+            "green": 87,
+            "red": 88
+          },
+          "hex": "585758",
+          "percent": 2.571965286093125,
+          "percentRounded": 3,
+          "pixelFraction": 0.017746914,
+          "rgb": "88, 87,\n 88",
+          "score": 0.024878565
+        },
+        {
+          "color": {
+            "blue": 204,
+            "green": 205,
+            "red": 203
+          },
+          "hex": "CBCDCC",
+          "percent": 39.449935580664445,
+          "percentRounded": 39,
+          "pixelFraction": 0.053755146,
+          "rgb": "203, 205,\n 204",
+          "score": 0.38159838
+        },
+        {
+          "color": {
+            "blue": 40,
+            "green": 35,
+            "red": 91
+          },
+          "hex": "5B2328",
+          "percent": 0.2673902036664429,
+          "percentRounded": 0,
+          "pixelFraction": 0.00017146776,
+          "rgb": "91, 35,\n 40",
+          "score": 0.0025864597
+        },
+        {
+          "color": {
+            "blue": 108,
+            "green": 101,
+            "red": 176
+          },
+          "hex": "B0656C",
+          "percent": 0.20650884246100706,
+          "percentRounded": 0,
+          "pixelFraction": 0.00008573388,
+          "rgb": "176, 101,\n 108",
+          "score": 0.0019975556
+        },
+        {
+          "color": {
+            "blue": 65,
+            "green": 62,
+            "red": 118
+          },
+          "hex": "763E41",
+          "percent": 0.10825618980002341,
+          "percentRounded": 0,
+          "pixelFraction": 0.00008573388,
+          "rgb": "118, 62,\n 65",
+          "score": 0.0010471598
+        },
+        {
+          "color": {
+            "blue": 65,
+            "green": 59,
+            "red": 117
+          },
+          "hex": "753B41",
+          "percent": 0.04596538682300826,
+          "percentRounded": 0,
+          "pixelFraction": 0.00017146776,
+          "rgb": "117, 59,\n 65",
+          "score": 0.0004446222
+        },
+        {
+          "color": {
+            "blue": 158,
+            "green": 157,
+            "red": 158
+          },
+          "hex": "9E9D9E",
+          "percent": 2.748267858685632,
+          "percentRounded": 3,
+          "pixelFraction": 0.010545268,
+          "rgb": "158, 157,\n 158",
+          "score": 0.026583936
+        },
+        {
+          "color": {
+            "blue": 121,
+            "green": 119,
+            "red": 119
+          },
+          "hex": "777779",
+          "percent": 2.2785174106206196,
+          "percentRounded": 2,
+          "pixelFraction": 0.012259945,
+          "rgb": "119, 119,\n 121",
+          "score": 0.02204005
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Wheel",
+      "mid": "/m/083wq",
+      "score": 0.96994436,
+      "topicality": 0.96994436
+    },
+    {
+      "description": "Tire",
+      "mid": "/m/0h9mv",
+      "score": 0.966153,
+      "topicality": 0.966153
+    },
+    {
+      "description": "Vehicle",
+      "mid": "/m/07yv9",
+      "score": 0.95640284,
+      "topicality": 0.95640284
+    },
+    {
+      "description": "Car",
+      "mid": "/m/0k4j",
+      "score": 0.9421227,
+      "topicality": 0.9421227
+    },
+    {
+      "description": "Hood",
+      "mid": "/m/02df64",
+      "score": 0.9182576,
+      "topicality": 0.9182576
+    },
+    {
+      "description": "Automotive parking light",
+      "mid": "/m/0h8n1g1",
+      "score": 0.91761917,
+      "topicality": 0.91761917
+    },
+    {
+      "description": "Automotive lighting",
+      "mid": "/m/0768fx",
+      "score": 0.9068994,
+      "topicality": 0.9068994
+    },
+    {
+      "description": "Automotive tire",
+      "mid": "/m/0h8pb3l",
+      "score": 0.8982488,
+      "topicality": 0.8982488
+    },
+    {
+      "description": "Black",
+      "mid": "/m/019sc",
+      "score": 0.89515764,
+      "topicality": 0.89515764
+    },
+    {
+      "description": "Automotive design",
+      "mid": "/m/068mqj",
+      "score": 0.8793152,
+      "topicality": 0.8793152
+    },
+    {
+      "description": "Hubcap",
+      "mid": "/m/01sdr3",
+      "score": 0.87752515,
+      "topicality": 0.87752515
+    },
+    {
+      "description": "Alloy wheel",
+      "mid": "/m/02q8tbd",
+      "score": 0.8764641,
+      "topicality": 0.8764641
+    },
+    {
+      "description": "Motor vehicle",
+      "mid": "/m/012f08",
+      "score": 0.87311953,
+      "topicality": 0.87311953
+    },
+    {
+      "description": "Bumper",
+      "mid": "/m/02mnkq",
+      "score": 0.8454825,
+      "topicality": 0.8454825
+    },
+    {
+      "description": "Vehicle door",
+      "mid": "/m/02q2kc3",
+      "score": 0.827911,
+      "topicality": 0.827911
+    },
+    {
+      "description": "Personal luxury car",
+      "mid": "/m/01w71f",
+      "score": 0.82712454,
+      "topicality": 0.82712454
+    },
+    {
+      "description": "Rim",
+      "mid": "/m/047vmg8",
+      "score": 0.8251263,
+      "topicality": 0.8251263
+    },
+    {
+      "description": "Lamborghini",
+      "mid": "/m/0h5x4j3",
+      "score": 0.80776197,
+      "topicality": 0.80776197
+    },
+    {
+      "description": "Fender",
+      "mid": "/m/0d74dx",
+      "score": 0.79165214,
+      "topicality": 0.79165214
+    },
+    {
+      "description": "Automotive exterior",
+      "mid": "/m/0h8ls87",
+      "score": 0.77382886,
+      "topicality": 0.77382886
+    },
+    {
+      "description": "Tints and shades",
+      "mid": "/m/02q_bfg",
+      "score": 0.7726475,
+      "topicality": 0.7726475
+    },
+    {
+      "description": "Automotive mirror",
+      "mid": "/m/0h8lk4b",
+      "score": 0.7566155,
+      "topicality": 0.7566155
+    },
+    {
+      "description": "Performance car",
+      "mid": "/m/06j11d",
+      "score": 0.74809426,
+      "topicality": 0.74809426
+    },
+    {
+      "description": "Automotive wheel system",
+      "mid": "/m/0h8ly30",
+      "score": 0.74797845,
+      "topicality": 0.74797845
+    },
+    {
+      "description": "Headlamp",
+      "mid": "/m/0263qm",
+      "score": 0.7434706,
+      "topicality": 0.7434706
+    },
+    {
+      "description": "Automotive fog light",
+      "mid": "/m/0h8lj0p",
+      "score": 0.7387356,
+      "topicality": 0.7387356
+    },
+    {
+      "description": "Spoke",
+      "mid": "/m/016xt7",
+      "score": 0.7274289,
+      "topicality": 0.7274289
+    },
+    {
+      "description": "Mid-size car",
+      "mid": "/m/03vnt4",
+      "score": 0.71450734,
+      "topicality": 0.71450734
+    },
+    {
+      "description": "Sports car",
+      "mid": "/m/012mq4",
+      "score": 0.70546156,
+      "topicality": 0.70546156
+    },
+    {
+      "description": "Windshield",
+      "mid": "/m/01lrnl",
+      "score": 0.6888711,
+      "topicality": 0.6888711
+    },
+    {
+      "description": "Lamborghini gallardo",
+      "mid": "/m/02xqgw",
+      "score": 0.66791695,
+      "topicality": 0.66791695
+    },
+    {
+      "description": "Electric blue",
+      "mid": "/m/02vwbzz",
+      "score": 0.6626234,
+      "topicality": 0.6626234
+    },
+    {
+      "description": "Race car",
+      "mid": "/m/0ncqpsr",
+      "score": 0.65844846,
+      "topicality": 0.65844846
+    },
+    {
+      "description": "Auto part",
+      "mid": "/m/08dz3q",
+      "score": 0.6558152,
+      "topicality": 0.6558152
+    },
+    {
+      "description": "Luxury vehicle",
+      "mid": "/m/01lcwm",
+      "score": 0.6553323,
+      "topicality": 0.6553323
+    },
+    {
+      "description": "Event",
+      "mid": "/m/081pkj",
+      "score": 0.65387464,
+      "topicality": 0.65387464
+    },
+    {
+      "description": "Family car",
+      "mid": "/m/088l6h",
+      "score": 0.6523948,
+      "topicality": 0.6523948
+    },
+    {
+      "description": "Model car",
+      "mid": "/m/0lyw6",
+      "score": 0.6309601,
+      "topicality": 0.6309601
+    },
+    {
+      "description": "Sports sedan",
+      "mid": "/m/05sxvp",
+      "score": 0.61467946,
+      "topicality": 0.61467946
+    },
+    {
+      "description": "Spoiler",
+      "mid": "/m/05d_8m",
+      "score": 0.6035559,
+      "topicality": 0.6035559
+    },
+    {
+      "description": "Concept car",
+      "mid": "/m/022ph9",
+      "score": 0.5953758,
+      "topicality": 0.5953758
+    },
+    {
+      "description": "Toy vehicle",
+      "mid": "/m/0h8lhhb",
+      "score": 0.58290786,
+      "topicality": 0.58290786
+    },
+    {
+      "description": "Compact car",
+      "mid": "/m/02swz_",
+      "score": 0.5817011,
+      "topicality": 0.5817011
+    },
+    {
+      "description": "Audi",
+      "mid": "/m/0h5z20c",
+      "score": 0.5815936,
+      "topicality": 0.5815936
+    },
+    {
+      "description": "Coupé",
+      "mid": "/m/01d1dj",
+      "score": 0.5643463,
+      "topicality": 0.5643463
+    },
+    {
+      "description": "Supercar",
+      "mid": "/m/014f__",
+      "score": 0.55378973,
+      "topicality": 0.55378973
+    },
+    {
+      "description": "Rolling",
+      "mid": "/m/04c0lt",
+      "score": 0.5520442,
+      "topicality": 0.5520442
+    },
+    {
+      "description": "Executive car",
+      "mid": "/m/0crtnw",
+      "score": 0.5440844,
+      "topicality": 0.5440844
+    },
+    {
+      "description": "City car",
+      "mid": "/m/0369ss",
+      "score": 0.5385599,
+      "topicality": 0.5385599
+    },
+    {
+      "description": "Grand tourer",
+      "mid": "/m/0321td",
+      "score": 0.5360722,
+      "topicality": 0.5360722
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.66594285,
+            "y": 0.52234036
+          },
+          {
+            "x": 0.8177411,
+            "y": 0.52234036
+          },
+          {
+            "x": 0.8177411,
+            "y": 0.6805927
+          },
+          {
+            "x": 0.66594285,
+            "y": 0.6805927
+          }
+        ]
+      },
+      "mid": "/m/083wq",
+      "name": "Wheel",
+      "score": 0.9179355
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.16652726,
+            "y": 0.6870323
+          },
+          {
+            "x": 0.32301798,
+            "y": 0.6870323
+          },
+          {
+            "x": 0.32301798,
+            "y": 0.842273
+          },
+          {
+            "x": 0.16652726,
+            "y": 0.842273
+          }
+        ]
+      },
+      "mid": "/m/083wq",
+      "name": "Wheel",
+      "score": 0.9154519
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.0022505175,
+            "y": 0.38041472
+          },
+          {
+            "x": 0.8852859,
+            "y": 0.38041472
+          },
+          {
+            "x": 0.8852859,
+            "y": 0.8480389
+          },
+          {
+            "x": 0.0022505175,
+            "y": 0.8480389
+          }
+        ]
+      },
+      "mid": "/m/0k4j",
+      "name": "Car",
+      "score": 0.84370184
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.16896053,
+            "y": 0.68693274
+          },
+          {
+            "x": 0.32738885,
+            "y": 0.68693274
+          },
+          {
+            "x": 0.32738885,
+            "y": 0.8436568
+          },
+          {
+            "x": 0.16896053,
+            "y": 0.8436568
+          }
+        ]
+      },
+      "mid": "/m/0h9mv",
+      "name": "Tire",
+      "score": 0.8351245
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  }
+}
