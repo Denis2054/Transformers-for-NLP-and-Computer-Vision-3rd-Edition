@@ -49,19 +49,17 @@ Last updated: August 14, 2023
  **Chapter 19: On the Road to Functional AGI with HuggingGPT and its Peers**
 | <ul><li>Computer_Vision_Analysis.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter19/Computer_Vision_Analysis.ipynb) |
  **Chapter 20: Generative AI Ideation Vertex AI, Langchain, and Stable Diffusion**
-| <ul><li>Google_Vertex_Generative_AI_Ideation.ipynb</li><li>Generative_Ideation_with_Stable_Diffusion.ipynb</li><li>Automated_Ideation.ipynb</li><li>Midjourney_bot.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Google_Vertex_Generative_AI_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Generative_Ideation_with_Stable_Diffusion.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Midjourney_bot.ipynb)|
-## Additional OpenAI Bonus Notebooks 
+| <ul><li>Google_Vertex_Generative_AI_Ideation.ipynb</li><li>Generative_Ideation_with_Stable_Diffusion.ipynb</li><li>Automated_Ideation.ipynb</li><li>Midjourney_bot.ipynb</li><li>Automated_Design.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Google_Vertex_Generative_AI_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Generative_Ideation_with_Stable_Diffusion.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Midjourney_bot.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Design.ipynb)|
+## Bonus Notebooks 
 
 | Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
 | ----- | ----- | ------ | -------- | ------------------- |
 | | | | | |
-**Part I & II Natural Language Processing** 
 The journey from GPT-2 to ChatGPT-3 and davinci
 | <ul><li>GPT_2_and_ChatGPT_the_Origins.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/GPT_2_and_ChatGPT_the_Origins.ipynb)|
 Adding speech-to-text and text-to-speech 
 | <ul><li>Speaking_with_ChatGPT.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Speaking_with_ChatGPT.ipynb)| 
 
- **Part III: Generative Computer Vision: A New Way to See the World**
  
 
 
