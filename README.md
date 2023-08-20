@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: August 18, 2023
+Last updated: August 20, 2023
 
 📗**Ready for review**
 
@@ -55,10 +55,6 @@ Last updated: August 18, 2023
 | Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
 | ----- | ----- | ------ | -------- | ------------------- |
 | | | | | |
-The journey from GPT-2 to ChatGPT-3 and davinci
-| <ul><li>GPT_2_and_ChatGPT_the_Origins.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/GPT_2_and_ChatGPT_the_Origins.ipynb)|
-Adding speech-to-text and text-to-speech 
-| <ul><li>Speaking_with_ChatGPT.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Speaking_with_ChatGPT.ipynb)| 
 Part I: Automated Prompt Generation for Generative Ideation with Stable Diffusion (Part II) 
 | <ul><li>Google_Vertex_Generative_AI_Ideation.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Vertex_Generative_AI_Ideation.ipynb)| 
 Part II: Automated Text-to-Image generation with Stable Diffusion with automated prompts (Part I) 
