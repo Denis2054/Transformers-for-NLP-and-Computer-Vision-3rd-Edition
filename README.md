@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: August 28, 2023
+Last updated: September 3, 2023
 
 📗**Ready for review**
 
@@ -21,7 +21,7 @@ Last updated: August 28, 2023
  **Chapter 5: Diving into Fine-Tuning through BERT**
 | <ul><li>BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter05/BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb) |
  **Chapter 6: Pretraining a Transformer from Scratch through RoBERTa**
-| <ul><li>KantaiBERT.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter06/KantaiBERT.ipynb) |
+| <ul><li>KantaiBERT.ipynb</li><li>Customer_Support_for_X.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter06/KantaiBERT.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter06/Customer_Support_for_X.ipynb)|
  **Part II: The Rise of Suprahuman NLP**
  **Chapter 7: From Basics to Disruption with ChatGPT**
  | <ul><li>OpenAI_Models.ipynb</li><li>Getting_Started_GPT_3_engines.ipynb</li><li>Getting_Started_OpenAI_GPT_4.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/OpenAI_Models.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/Getting_Started_GPT_3_engines.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/Getting_Started_OpenAI_GPT_4.ipynb)|
