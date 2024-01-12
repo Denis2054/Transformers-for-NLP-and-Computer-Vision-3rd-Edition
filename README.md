@@ -2,7 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: January 11, 2024
+Last updated: January 12, 2024
 
 📗**Ready for review**
 
@@ -26,7 +26,7 @@ Last updated: January 11, 2024
  **Chapter 7: The Generative AI Revolution with ChatGPT**
  | <ul><li>OpenAI_Models.ipynb</li><li>OpenAI_GPT_4_Assistant.ipynb</li><li>Getting_Started_GPT_4_API.ipynb</li><li>GPT_4_RAG.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/OpenAI_Models.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/OpenAI_GPT_4_Assistant.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/Getting_Started_GPT_4_API.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/GPT_4_RAG.ipynb)|
  **Chapter 8: Fine-tuning OpenAI GPT Models**
-| <ul><li>Fine_tuning_GPT_3.ipynb</li><li>Fine-tuned_classification.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter08/Fine_tuning_GPT_3.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter08/Fine_tuned_classification.ipynb) |
+| <ul><li>Fine_tuning_GPT_3.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter08/Fine_tuning_GPT_3.ipynb) |
  **Chapter 9: Shattering the Black Box with Interpretable tools**
 | <ul><li>BertViz_Interactive.ipynb</li><li>Hugging_Face_SHAP.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter09/BertViz_Interactive.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter09/Hugging_Face_SHAP.ipynb)
  **Chapter 10: Investigating the Role of Tokenizers in Shaping Transformer Models**
