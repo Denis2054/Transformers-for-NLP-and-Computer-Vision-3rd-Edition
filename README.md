@@ -2,9 +2,7 @@
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_book_in_production_image.png?raw=tru" alt="drawing" width="400"/>
 book-in-production image copyright 2023, Denis Rothman generated with Midjourney 5.1. prompt on Discord
 
-Last updated: January 14, 2024
-
-📗**Ready for review**
+Last updated: January 15, 2024
 
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
 | :-------- | :-------- | :------- |:------- |:------- |
@@ -52,15 +50,6 @@ Last updated: January 14, 2024
 | <ul><li>Computer_Vision_Analysis.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter19/Computer_Vision_Analysis.ipynb) |
  **Chapter 20: Generative AI Ideation Vertex AI, Langchain, and Stable Diffusion**
 | <ul><li>Automated_Design.ipynb</li><li>Midjourney_bot.ipynb</li><li>Automated_Ideation.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Design.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Midjourney_bot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Ideation.ipynb)|
-## Bonus Notebooks 
-
-| Bonus | Colab | Kaggle | Gradient | SageMaker Studio Lab |
-| ----- | ----- | ------ | -------- | ------------------- |
-| | | | | |
-Part I: Automated Prompt Generation for Generative Ideation with Stable Diffusion (Part II) 
-| <ul><li>Google_Vertex_Generative_AI_Ideation.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Google_Vertex_Generative_AI_Ideation.ipynb)| 
-Part II: Automated Text-to-Image generation with Stable Diffusion with automated prompts (Part I) 
-| <ul><li>Generative_Ideation_with_Stable_Diffusion.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Bonus/Generative_Ideation_with_Stable_Diffusion.ipynb)| 
 
  
 
