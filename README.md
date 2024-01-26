@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-Last updated: January 23, 2024
+Last updated: January 26, 2024
 
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
 | :-------- | :-------- | :------- |:------- |:------- |
