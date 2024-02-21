@@ -1,3 +1,4 @@
+# REPOSITORY UNDER CONSTRUCTION FOR PUBLICATION IN MARCH 2024
 # Transformers for Natural Language Processing and Computer Vision: Take Generative AI and LLMs to the next level with Hugging Face, Google Vertex AI, ChatGPT, GPT-4V, and DALL-E 3 3rd Edition<br>
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
