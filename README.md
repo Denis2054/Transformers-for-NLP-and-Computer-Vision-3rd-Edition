@@ -3,10 +3,10 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-Last updated: February 21, 2024
+Last updated: February 28, 2024
 
 # Transformers-for-NLP-and-Computer-Vision-3rd-Edition
-This is the code repository for [Transformers for Natural Language Processing and Computer Vision](Enter Amazon PaperBack link of this title), published by Packt.
+This is the code repository for [Transformers for Natural Language Processing and Computer Vision](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728/), published by Packt.
 
 **Explore Generative AI and Large Language Models with Hugging Face, ChatGPT, GPT-4V, and DALL-E 3**
 
@@ -52,7 +52,7 @@ Appendix: Answers to the Questions
 
 
 ### Platforms
-You can run the notebooks directly from here by clicking on ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) / ![Open In Kaggle](https://colab.research.google.com/assets/colab-badge.svg)
+You can run the notebooks directly from here by clicking on ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
 | :-------- | :-------- | :------- |:------- |:------- |
 | | | | | |
