@@ -1,4 +1,3 @@
-# [REPOSITORY UNDER CONSTRUCTION FOR OFFICIAL RELEASE IN MARCH 2024](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728/?_encoding=UTF8&pd_rd_w=O1kFA&content-id=amzn1.sym.c3314f77-20fc-4bcf-a8e9-f0c47346c9da%3Aamzn1.symc.50e00d6c-ec8b-42ef-bb15-298531ab4497&pf_rd_p=c3314f77-20fc-4bcf-a8e9-f0c47346c9da&pf_rd_r=YBGTV0T1M5JT8KC9HQ9G&pd_rd_wg=mFGJZ&pd_rd_r=5b6127c1-5273-4051-afc1-fc6f5afd5c74&ref_=pd_gw_ci_mcx_mr_hp_atf_m)
 # Transformers for Natural Language Processing and Computer Vision: Take Generative AI and LLMs to the next level with Hugging Face, Google Vertex AI, ChatGPT, GPT-4V, and DALL-E 3 3rd Edition<br>
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
