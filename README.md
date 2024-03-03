@@ -102,7 +102,7 @@ You can run the notebooks directly from here by clicking on ![Open In Colab](htt
 
 
 ### Get my copy
-> If you feel this book is for you, get your [copy](https://www.amazon.in/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5/) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+> If you feel this book is for you, get your [copy](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5/) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
 ## Software and Hardware List
