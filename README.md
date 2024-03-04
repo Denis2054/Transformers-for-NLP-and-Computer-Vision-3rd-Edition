@@ -3,7 +3,7 @@ by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
 Last updated: March 4, 2024  
-Look for the  🐬 for bonus notebooks! March 2024
+Look for the  🐬 for bonus notebooks! 
 
 # Transformers-for-NLP-and-Computer-Vision-3rd-Edition
 This is the code repository for [Transformers for Natural Language Processing and Computer Vision](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728/), published by Packt.
