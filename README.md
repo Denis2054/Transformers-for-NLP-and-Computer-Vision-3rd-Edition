@@ -2,7 +2,8 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-Last updated: February 28, 2024
+Last updated: March 4, 2024  
+Look for the  🐬 for bonus notebooks! March 2024
 
 # Transformers-for-NLP-and-Computer-Vision-3rd-Edition
 This is the code repository for [Transformers for Natural Language Processing and Computer Vision](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728/), published by Packt.
@@ -97,7 +98,7 @@ You can run the notebooks directly from here by clicking on ![Open In Colab](htt
  **Chapter 19: On the Road to Functional AGI with HuggingGPT and its Peers**
 | <ul><li>Computer_Vision_Analysis.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter19/Computer_Vision_Analysis.ipynb) |
  **Chapter 20: Generative AI Ideation Vertex AI, Langchain, and Stable Diffusion**
-| <ul><li>Automated_Design.ipynb</li><li>Midjourney_bot.ipynb</li><li>Automated_Ideation.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Design.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Midjourney_bot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Ideation.ipynb)|
+| <ul><li>Automated_Design.ipynb</li><li>Midjourney_bot.ipynb</li><li>Automated_Ideation.ipynb</li><li>MyMidjourney_API.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Design.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Midjourney_bot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/Automated_Ideation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter20/MyMidjourney_API.ipynb)|
 
 
 
