@@ -112,7 +112,7 @@ You can run the notebooks directly from below table:
 
 
 ### Raise an issue
-> You can create an issue in this repository if you encounter one in the notebooks. [](https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/issues) We will be glad to provide support!<img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+> You can [create an issue](https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/issues) We will be glad to provide support!<img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">in this repository if you encounter one in the notebooks.
 
 ### Get my copy
 > If you feel this book is for you, get your [copy](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5/) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
