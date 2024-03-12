@@ -103,7 +103,7 @@ You can run the notebooks directly from below table:
 ### Chat with this repository's GPT-4 Chatbot
 <a href="https://chat.openai.com/g/g-qV6bon6X7-transformers-for-nlp-cv-3rd-edition-repo-helper" target="_blank"> Chat with my custom GPT4 bot for this repository</a><img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">.
 >   You can ask questions about this repository. You can also copy the code from the notebooks into my chat GPT and ask for explanations.    
->  *Limitations:* This is an experimental chatbot. It does not replace the explanations provided in the book. But you can surely have some interesting educational interactions with my GPT-4 chatbot.
+>  *Limitations:* This is an experimental chatbot. It does not replace the explanations provided in the book. There may also be an OpenAI input token and dialog limit. But you can surely have some interesting educational interactions with my GPT-4 chatbot.
 
 
 
