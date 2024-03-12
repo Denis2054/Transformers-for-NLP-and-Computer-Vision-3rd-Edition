@@ -106,17 +106,9 @@ You can run the notebooks directly from below table:
 ### Get my copy
 > If you feel this book is for you, get your [copy](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer-ebook/dp/B0CNH9V8M5/) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
-
-## Software and Hardware List
-With the following software and hardware list you can run all code files present in the book
-
-| Chapter | Software required    | Link to the software    | Hardware specifications    | OS required    |
-| :---:  | :---: | :---: |:---: | :---: |
-| 1-20 | Python 3.8  | https://www.python.org/downloads/   | x86/AMD64 system  |  Windows, any Linux distro, or macOS  |
-
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
-You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://www.packt.link/Transformers) 
+You can get more engaged on the Discord server for more latest updates and discussions in the community at [Discord](https://www.packt.link/Transformers) 
 
 ## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
 
