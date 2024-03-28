@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-Last updated: March 12, 2024  
+Last updated: March 28, 2024  
 Look for the  🐬 for bonus notebooks! 
 
 # Transformers-for-NLP-and-Computer-Vision-3rd-Edition
