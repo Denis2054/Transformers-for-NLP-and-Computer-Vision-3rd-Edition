@@ -5,8 +5,8 @@ by Denis Rothman <br><br>
 This repo is continually updated and upgraded.   
 Last update: April 29, 2024     
 Look for 🐬 to explore new bonus notebooks!        
-Look for 🎏 to find the latest upgrades such as OpenAI's latest gpt-4-turbo model.    
-Look for 🛠  to detect resolved issues such as new package version dependency conflicts or hardware upgrades (GPU, TPU) that impact the code.
+Look for 🎏 to find the latest upgrades such as OpenAI's latest gpt-4-turbo model or code optimization   
+Look for 🛠  to detect resolved issues such as new package version dependency conflicts or code impacting hardware upgrades (GPU, TPU).
 
 🚩If you see anything that doesn't work, raise an issue and we'll work on it!   
 
