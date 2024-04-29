@@ -2,8 +2,12 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-Last updated: April 29, 2024  
-Look for the  🐬 for bonus notebooks! 
+This repo is continually updated and updgraded.   
+Last update: April 29, 2024     
+Look for 🐬 for bonus added notebooks!        
+Look for 📍 to find the latest updates such as OpenAI's latest gpt-4-turbo model
+
+🚩If you see anything that doesn't work, raise an issue and we'll work on it!   
 
 # Transformers-for-NLP-and-Computer-Vision-3rd-Edition
 This is the code repository for [Transformers for Natural Language Processing and Computer Vision](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728/), published by Packt.
