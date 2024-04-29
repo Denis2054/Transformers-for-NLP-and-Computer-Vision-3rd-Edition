@@ -8,7 +8,7 @@ Look for 🐬 to explore new bonus notebooks!
 Look for 🎏 to find the latest upgrades such as OpenAI's latest gpt-4-turbo model or code optimization   
 Look for 🛠  to detect resolved issues such as new package version dependency conflicts or hardware upgrades(GPU, TPU) thatimpact code.
 
-🚩If you see anything that doesn't work, raise an issue and we'll work on it!   
+🚩If you see anything that doesn't run as expected, raise an issue and we'll work on it!   
 
 # Transformers-for-NLP-and-Computer-Vision-3rd-Edition
 This is the code repository for [Transformers for Natural Language Processing and Computer Vision](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728/), published by Packt.
