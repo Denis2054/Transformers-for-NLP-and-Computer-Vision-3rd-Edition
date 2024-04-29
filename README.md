@@ -5,7 +5,7 @@ by Denis Rothman <br><br>
 This repo is continually updated and upgraded.   
 Last update: April 29, 2024     
 Look for 🐬 to explore new bonus notebooks!        
-Look for 🎏 to find the latest updates such as OpenAI's latest gpt-4-turbo model and resolved issues.
+Look for 🎏 to find the latest upgrades such as OpenAI's latest gpt-4-turbo model and the latest resolved issues.
 
 🚩If you see anything that doesn't work, raise an issue and we'll work on it!   
 
