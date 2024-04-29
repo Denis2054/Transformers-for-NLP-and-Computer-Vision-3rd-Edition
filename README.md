@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-This repo is continually updated and updgraded.   
+This repo is continually updated and upgraded.   
 Last update: April 29, 2024     
 Look for 🐬 to explore new bonus notebooks!        
 Look for 🎏 to find the latest updates such as OpenAI's latest gpt-4-turbo model and resolved issues.
