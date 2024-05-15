@@ -57,7 +57,7 @@ Appendix: Answers to the Questions
 
 
 ### Platforms
-You can run the notebooks directly from below table:
+You can run the notebooks directly from the table below:
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
 | :-------- | :-------- | :------- |:------- |:------- |
 | | | | | |
