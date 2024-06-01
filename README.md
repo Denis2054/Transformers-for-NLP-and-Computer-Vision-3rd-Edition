@@ -4,9 +4,9 @@ by Denis Rothman <br><br>
 
 This repo is continually updated and upgraded.   
 Last update: June 1, 2024     
-Look for 🐬 to explore new bonus notebooks!        
-Look for 🎏 to find the latest upgrades, such as OpenAI's latest gpt-4o model or code optimization   
-Look for 🛠 to detect updates and upgrades, such as new package version dependency updates or hardware upgrades(GPU, TPU) that impact code.
+Look for 🐬 to explore *new bonus notebooks* such as programs with Midjourney's API and Google Vertex AI Gemini's API!        
+Look for 🎏 to find the *latest model or platform releases*, such as updating existing notebooks with OpenAI's latest GPT-4o model or code optimization.  
+Look for 🛠 to detect package *updates and upgrades*, such as new packages, libraries, and functionality on existing programs.
 
 🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!   
 
