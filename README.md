@@ -3,7 +3,7 @@ by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
 This repo is continually updated and upgraded.   
-Last update: June 1, 2024     
+Last update: June 2, 2024     
 Look for 🐬 to explore *new bonus notebooks* such as programs with Midjourney's API and Google Vertex AI Gemini's API!        
 Look for 🎏 to explore existing code for the *latest model or platform releases*, such as OpenAI's latest GPT-4o model.  
 Look for 🛠 to run existing updated code with pip installation package *updates and upgrades*.
