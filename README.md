@@ -6,7 +6,7 @@ This repo is continually updated and upgraded.
 Last update: June 10, 2024     
 Look for 🐬 to explore *new bonus notebooks* such as programs with Midjourney's API and Google Vertex AI Gemini's API!        
 Look for 🎏 to explore existing notebooks for the *latest model or platform releases*, such as OpenAI's latest GPT-4o model.  
-Look for 🛠 to run existing notebooks with *new dependency versions and platform API constraints and additional tweaks.*
+Look for 🛠 to run existing notebooks with *new dependency versions and platform API constraints and tweaks.*
 
 🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!   
 
