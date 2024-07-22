@@ -4,7 +4,7 @@ by Denis Rothman <br><br>
 
 This repo is continually updated and upgraded.   
 Last updated: July 22, 2024     
-Look for 🐬 to explore *new bonus notebooks* such as Midjourney's API, Google Vertex AI Gemini's API, and boosting the speed of your OpenAI API with Asynchronous Batch Processing!        
+Look for 🐬 to explore *new bonus notebooks* such as Midjourney's API, Google Vertex AI Gemini's API, and boosting the speed of OpenAI GPT models with asynchronous batch API calls!        
 Look for 🎏 to explore existing notebooks for the *latest model or platform releases*, such as OpenAI's latest GPT-4o and GPT-4o-mini models.  
 Look for 🛠 to run existing notebooks with *new dependency versions and platform API constraints and tweaks.*
 
