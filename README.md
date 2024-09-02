@@ -3,7 +3,7 @@ by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
 This repo is continually updated and upgraded.   
-Last updated: September 2, 2024     
+Last updated: September 3, 2024     
 Look for 🐬 to explore *new bonus notebooks* such as Midjourney's API, Google Vertex AI Gemini's API, and boosting the speed of OpenAI GPT models with asynchronous batch API calls!        
 Look for 🎏 to explore existing notebooks for the *latest model or platform releases*, such as OpenAI's latest GPT-4o and GPT-4o-mini models.  
 Look for 🛠 to run existing notebooks with *new dependency versions and platform API constraints and tweaks.*
