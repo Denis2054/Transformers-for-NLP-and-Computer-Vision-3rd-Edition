@@ -5,7 +5,7 @@ by Denis Rothman <br><br>
 This repo is continually updated and upgraded.   
 🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!   
 
-Last updated: September 24, 2024     
+Last updated: September 25, 2024     
 Look for 🐬 to explore *new bonus notebooks* such as OpenAI o1's reasoning models, Midjourney's API, Google Vertex AI Gemini's API, OpenAI asynchronous batch API calls!        
 Look for 🎏 to explore existing notebooks for the *latest model or platform releases*, such as OpenAI's latest GPT-4o and GPT-4o-mini models.  
 Look for 🛠 to run existing notebooks with *new dependency versions and platform API constraints and tweaks.*
