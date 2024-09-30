@@ -136,6 +136,6 @@ _If you have already purchased a print or Kindle version of this book, you can g
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [ColorImages](https://packt.link/gbp/9781805128724) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 ## Get to Know the Author
-Denis Rothman graduated from Sorbonne University and Paris-Cité University, designing one of the first patented encoding and embedding systems and teaching at Paris-I Panthéon Sorbonne.He authored one of the first patented word encoding and AI bots/robots. He began his career delivering a Natural Language Processing (NLP) chatbot for Moët et Chandon(LVMH) and as an AI tactical defense optimizer for Airbus (formerly Aerospatiale).
+Denis Rothman graduated from Sorbonne University and Paris-Cité University, designing one of the first patented encoding and embedding systems and teaching at Paris-I Panthéon Sorbonne.He authored one of the first patented word encoding and AI bots/robots. He began his career delivering a Natural Language Processing (NLP) chatbot for Moët et Chandon(LVMH) and an AI tactical defense optimizer for Airbus (formerly Aerospatiale).
 Denis then authored an AI optimizer for IBM and luxury brands, leading to an Advanced Planning and Scheduling (APS) solution used worldwide.
 [LinkedIn](https://www.linkedin.com/in/denis-rothman-0b034043/)
