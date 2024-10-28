@@ -2,11 +2,12 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-Last updated: September 30, 2024     
+Last updated: October 28, 2024     
 
-This repo is continually updated and upgraded.   
-🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!   
+This repo is continually updated and upgraded.  
 📝 For details on updates and improvements, see the [Changelog](./CHANGELOG.md). 
+🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!   
+
     
 Look for 🐬 to explore *new bonus notebooks* such as OpenAI o1's reasoning models, Midjourney's API, Google Vertex AI Gemini's API, OpenAI asynchronous batch API calls!        
 Look for 🎏 to explore existing notebooks for the *latest model or platform releases*, such as OpenAI's latest GPT-4o and GPT-4o-mini models.  
