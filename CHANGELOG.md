@@ -6,7 +6,7 @@ Starting September 30,2024, this changelog contains the notable updates to the *
 ## [October 28,2024]
 
 ### Fixed
-Fixed typo in Chapter04/WMT_translations.ipynb:
+Fixed typo in `Chapter04/WMT_translations.ipynb`:
 Now "smoothing" is correctly written in one of the print instructions.
 
 ## [September 30, 2024]
