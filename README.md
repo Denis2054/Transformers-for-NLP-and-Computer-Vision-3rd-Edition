@@ -5,7 +5,7 @@ by Denis Rothman <br><br>
 Last updated: October 28, 2024     
 
 This repo is continually updated and upgraded.  
-📝 For details on updates and improvements, see the [Changelog](./CHANGELOG.md). 
+📝 For details on updates and improvements, see the [Changelog](./CHANGELOG.md).     
 🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!   
 
     
