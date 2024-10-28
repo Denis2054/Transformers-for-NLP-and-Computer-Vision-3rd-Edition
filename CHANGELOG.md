@@ -3,7 +3,7 @@
 The world of AI has been evolving at full speed since the creation of this repository. As such, it has been continually updated and upgraded.
 Starting September 30,2024, this changelog contains the notable updates to the **Transformers for NLP and Computer Vision 3rd Edition** repository.
 
-##[October 28,2024]
+## [October 28,2024]
 
 ### Fixed
 Fixed typo in Chapter04/WMT_translations.ipynb:
