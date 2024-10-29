@@ -18,9 +18,27 @@ You can now view your model's metrics on **Hugging Face**.
 
 ### Upgraded      
 
+#### Upgrade #1 Vertex AI
 `Chapter14/Google_Vertex_AI.ipynb` has now been upgraded to `Chapter14/Google_Vertex_AI_Gemini.ipynb` with the `gemini-1.5-flash-001` model. 
 A timer has been added to adapt to the API call rates.
 It is recommended to read `Google_Vertex_AI.ipynb` with the chapter in the book to understand the process but then to run `Google_Vertex_AI_Gemini.ipynb` which now calls 20 LLM tasks and a computer vision task.
+
+#### Upgrade #2 Stable Diffusion
+
+Open and Read `Chapter17/Stable_Diffusion_Keras.ipynb` with the book to understand the process. However, this notebook has been replaced by 
+`Chapter17/Stable_Diffusion_Hugging_Face.ipynb`.
+
+**Reason for Change**: The initial implementation using `keras_cv` for Stable Diffusion was unstable due to compatibility issues between **Keras** and **TensorFlow**. Specifically, there were multiple shape mismatch errors, difficulties in managing precision (mixed vs float32), and challenges in manually encoding prompts due to limitations in `keras_cv`'s API. These issues led to unreliable behavior and a frustrating development experience in Google Colab.
+
+**New Approach**: We transitioned to using **Hugging Face's Diffusers library** for Stable Diffusion because it provides a more stable and intuitive workflow for generating images from text prompts. The `diffusers` library integrates well with **PyTorch** and has comprehensive support for text-to-image generation. It allowed us to seamlessly encode prompts and use GPU acceleration without running into the issues present in the Keras implementation.
+
+**Benefits**:
+- Improved compatibility and stability.
+- Easier to manage the text encoding and image generation workflow.
+- Robust GPU utilization through PyTorch, leading to faster and more reliable results.
+- Clearer API with better community support for addressing issues.
+
+This change ensures a smoother experience when working with Stable Diffusion in Google Colab, resulting in faster image generation and more predictable outputs.
 
 ### Fixed 
 Fixed typo in `Chapter04/WMT_translations.ipynb`:   
