@@ -20,7 +20,7 @@ You can now view your model's metrics on **Hugging Face**.
 
 `Chapter14/Google_Vertex_AI.ipynb` has now been upgraded to `Chapter14/Google_Vertex_AI_Gemini.ipynb` with the `gemini-1.5-flash-001` model. 
 A timer has been added to adapt to the API call rates.
-It is recommended to read `Google_Vertex_AI.ipynb` with the chapter in the book to understand the process but then to run `Google_Vertex_AI_Gemini.ipynb` which now has LLM tasks and a computer vision task.
+It is recommended to read `Google_Vertex_AI.ipynb` with the chapter in the book to understand the process but then to run `Google_Vertex_AI_Gemini.ipynb` which now calls 20 LLM tasks and a computer vision task.
 
 ### Fixed
 Fixed typo in `Chapter04/WMT_translations.ipynb`:   
