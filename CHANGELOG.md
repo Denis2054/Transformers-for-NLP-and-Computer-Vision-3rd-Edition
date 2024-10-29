@@ -5,15 +5,14 @@ This changelog contains the notable updates to the Transformers for NLP and Comp
 
 ## [October 29, 2024]
 
-### Fixed
-Fixed typo in `Chapter04/WMT_translations.ipynb`:   
-Now, "smoothing" is correctly written in one of the print instructions.
-
 ### Added
 `Chapter06/KantaiBERT.ipynb` and `Chapter06/Customer_Support_for_X.ipynb` enhancement:    
 **wandb.ai training metrics** added while training. 
 You can now view your model's metrics on **Hugging Face**.
 
+### Fixed
+Fixed typo in `Chapter04/WMT_translations.ipynb`:   
+Now, "smoothing" is correctly written in one of the print instructions.
 
 ## [September 30, 2024]
 Defining the structure of the changelog
