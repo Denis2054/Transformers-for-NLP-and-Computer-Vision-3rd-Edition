@@ -11,7 +11,7 @@ Now, "smoothing" is correctly written in one of the print instructions.
 
 ### Added
 `Chapter06/KantaiBERT.ipynb` and `Chapter06/Customer_Support_for_X.ipynb` enhancement:    
-wandb.ai training metrics added while training. 
+**wandb.ai training metrics** added while training. 
 You can now view your model's metrics on **Hugging Face**.
 
 
