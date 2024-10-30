@@ -9,7 +9,7 @@ Look for 🐬 to explore *new bonus notebooks* such as OpenAI o1's reasoning mod
 Look for 🎏 to explore existing notebooks for the *latest model or platform releases*, such as OpenAI's latest GPT-4o and GPT-4o-mini models.  
 Look for 🛠 to run existing notebooks with *new dependency versions and platform API constraints and tweaks.*
 
-## [October 29, 2024]
+## [October 30, 2024]
 
 ### Added
 `Chapter06/KantaiBERT.ipynb` and `Chapter06/Customer_Support_for_X.ipynb` enhancement:    
@@ -39,6 +39,14 @@ Open and Read `Chapter17/Stable_Diffusion_Keras.ipynb` with the book to understa
 - Clearer API with better community support for addressing issues.
 
 This change ensures a smoother experience when working with Stable Diffusion in Google Colab, resulting in faster image generation and more predictable outputs.
+
+#### Upgrade #3 Diffusion videos
+
+Diffusion models have evolved tremendously in a very short time, from the ability to create animations to videos and more. The code in this `Chapter17/Stable__Vision_Stability_AI_Animation.ipynb` notebook contains a Stability SDK, which is interesting to read along with the book. 
+
+Then, you can access (open source and free, of course!) the recent developments of text-to-video technology in the RAG-Driven Generative AI repo starting with the first notebook of [`Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI`](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Video_dataset_visualization.ipynb)
+
+
 
 ### Fixed 
 Fixed typo in `Chapter04/WMT_translations.ipynb`:   
