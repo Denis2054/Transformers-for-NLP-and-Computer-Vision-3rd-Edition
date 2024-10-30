@@ -42,7 +42,7 @@ This change ensures a smoother experience when working with Stable Diffusion in 
 
 #### Upgrade #3 Diffusion videos
 
-Diffusion models have evolved tremendously in a very short time, from the ability to create animations to videos and more. The code in this `Chapter17/Stable__Vision_Stability_AI_Animation.ipynb` notebook contains a Stability SDK, which is interesting to read along with the book. 
+Diffusion models have evolved tremendously in a very short time, from the ability to create animations to generate videos and more. The code in this `Chapter17/Stable__Vision_Stability_AI_Animation.ipynb` notebook contains a Stability SDK, which is interesting to read along with the book. 
 
 Then, you can access (open source and free, of course!) the recent developments of text-to-video technology in the RAG-Driven Generative AI repo starting with the first notebook of [`Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI`](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Video_dataset_visualization.ipynb)
 
