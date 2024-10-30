@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
-Last updated: October 29, 2024     
+Last updated: October 30, 2024     
 
 This repo is continually updated and upgraded.  
 📝 For details on updates and improvements, see the [Changelog](./CHANGELOG.md).     
