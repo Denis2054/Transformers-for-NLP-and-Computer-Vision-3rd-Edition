@@ -4,6 +4,10 @@ Since the creation of this repository, the world of AI has been evolving at full
 This changelog contains the notable updates to the Transformers for NLP and Computer Vision 3rd Edition repository to adapt to the 
 fast-evolving Generative AI market **after October 30, 2024**.
 
+## January 12/01/2025
+
+Comments updated in `Chapter16/Open AI Vision with GPT-4o` 
+
 **Before October 30, 2024, the repository was also continually updated.** You can rely on the icons in front of the notebooks in the [README  file](https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/README.md) to find the evolutions:  
 Look for 🐬 to explore *new bonus notebooks* such as OpenAI o1's reasoning models, Midjourney's API, Google Vertex AI Gemini's API, OpenAI asynchronous batch API calls!           
 Look for 🎏 to explore existing notebooks for the *latest model or platform releases*, such as OpenAI's latest GPT-4o and GPT-4o-mini models.  
