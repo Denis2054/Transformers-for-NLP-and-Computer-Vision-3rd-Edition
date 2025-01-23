@@ -4,6 +4,12 @@ Since the creation of this repository, the world of AI has been evolving at full
 This changelog contains the notable updates to the Transformers for NLP and Computer Vision 3rd Edition repository to adapt to the 
 fast-evolving Generative AI market **after October 30, 2024**.
 
+## January 25/01/2025
+Chapter 8: Fine-tuning OpenAI Models shows how to fine-tune a model.
+Advanced RAG technology can be an alternative. As such a section was added to Chapter 8:
+🐬RAG as an alternative to fine-tuning: Building Scalable Knowledge Graph-based RAG with Wikipedia and LlamaIndex	
+This leads to an open-source package of three notebooks.
+
 ## January 12/01/2025
 
 Comments updated in `Chapter16/Open AI Vision with GPT-4o` 
