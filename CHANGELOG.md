@@ -4,18 +4,24 @@ Since the creation of this repository, the world of AI has been evolving at full
 This changelog contains the notable updates to the Transformers for NLP and Computer Vision 3rd Edition repository to adapt to the 
 fast-evolving Generative AI market **after October 30, 2024**.
 
-## January 29/01/2025
-A notebook showing the reasoning capacity of DeepSeek has been deployed in the Chapter01 directory in the following section:
-**DeepSeek Reasoning models with DeepSeek, HuggingFace, and Together**
+## February 12, 2025
+A notebook showing the reasoning capacity of OpenAI o3 in Chapter 7:
+OpenAI_Reasoning_models_o3_API.ipynb
+Model implemented **o3-mini**
+
+## January 29, 2025
+A notebook showing the reasoning capacity of DeepSeek has been deployed in the Chapter01 directory in the following section of Chapter 1:
+**DeepSeek Reasoning models with DeepSeek R1, HuggingFace, and Together**
+Model implemented: **deepseek-ai/DeepSeek-R1**
 It demonstrates the self-reflecting ability of DeepSeek.
 
-## January 25/01/2025
+## January 25, 2025
 Chapter 8: Fine-tuning OpenAI Models shows how to fine-tune a model.
 Advanced RAG technology can be an alternative. As such a section was added to Chapter 8:
 🐬RAG as an alternative to fine-tuning: Building Scalable Knowledge Graph-based RAG with Wikipedia and LlamaIndex	
 This leads to an open-source package of three notebooks.
 
-## January 12/01/2025
+## January 12, 2025
 
 Comments updated in `Chapter16/Open AI Vision with GPT-4o` 
 
