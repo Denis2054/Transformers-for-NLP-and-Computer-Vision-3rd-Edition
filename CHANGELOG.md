@@ -5,11 +5,11 @@ This changelog contains the notable updates to the Transformers for NLP and Comp
 fast-evolving Generative AI market **after October 30, 2024**.
 
 ## February 12, 2025
-A notebook showing the reasoning capacity of OpenAI o3 in Chapter 7:
-`OpenAI_Reasoning_models_o3_API.ipynb`
-Model implemented **o3-mini**
+A notebook showing the reasoning capacity of OpenAI o3 in Chapter 7:    
+`OpenAI_Reasoning_models_o3_API.ipynb`    
+Model implemented **o3-mini**    
 
-Updated *o1-preview to o1* in the `OpenAI_Reasoning_models_o3_API.ipynb` notebook (Chapter 7)
+Updated *o1-preview to o1* in the `OpenAI_Reasoning_models_o3_API.ipynb` notebook (Chapter 7)   
 
 ## January 29, 2025
 A notebook showing the reasoning capacity of DeepSeek has been deployed in the Chapter01 directory in the following section of Chapter 1:
