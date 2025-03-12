@@ -4,6 +4,16 @@ Since the creation of this repository, the world of AI has been evolving at full
 This changelog contains the notable updates to the Transformers for NLP and Computer Vision 3rd Edition repository to adapt to the 
 fast-evolving Generative AI market **after October 30, 2024**.
 
+## March 12,2025
+
+Chapter06.KantaiBERT.ipynb
+Hugging Face transformers require an accelerator which in turn requires a GPU. 
+The latest version of Transformers installed right now in the notebook has dependency conflicts.
+
+Use with(October 2024) versions of Transformers of Accelerate
+pip install Transformers==4.46.1
+pip install accelerate==1.0.1
+
 ## February 12, 2025
 A notebook showing the reasoning capacity of OpenAI o3 in Chapter 7:    
 `OpenAI_Reasoning_models_o3_API.ipynb`    
