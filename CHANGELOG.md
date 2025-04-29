@@ -9,10 +9,8 @@ fast-evolving Generative AI market.
 
 ## April 29, 2025
 
-Google_Gemini_2.5_Flash.ipynb in Chapter14
-
-Notes:
-The notebook contains a wide variety of generative AI tasks applied to *Gemini 2.5 Flash*.
+`Google_Gemini_2.5_Flash.ipynb` in Chapter14
+The notebook contains a wide variety of generative AI tasks applied to `Gemini 2.5 Flash`.
 
 🎇Scientific Analysis & Reasoning: Demonstrated the ability to analyze complex scientific topics, such as the implications of exoplanets...
 🎇Philosophical Inquiry: Explored abstract concepts like 'absurdity' in existentialism, discussing its relationship with the human search...
