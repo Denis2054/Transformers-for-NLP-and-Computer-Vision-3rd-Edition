@@ -6,6 +6,11 @@ The updates were made continually, so starting October 30, 2024, I began to note
 This changelog contains the notable updates to the Transformers for NLP and Computer Vision 3rd Edition repository to adapt to the 
 fast-evolving Generative AI market.
 
+## May 5,2025
+
+`DeepSeek_R1_Zero_RL.ipynb` in Chapter02
+
+Traditional pipelines stack pre-training → supervised fine-tuning → reinforcement learning. DeepSeek-R1-Zero throws out that middle step—we apply pure RL directly on a base model, using simple, rule-based rewards to sculpt reasoning abilities from day one. This isn’t incremental—it’s a leap.
 
 ## April 29, 2025
 
