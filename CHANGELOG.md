@@ -6,7 +6,14 @@ The updates were made continually, so starting October 30, 2024, I began to note
 This changelog contains the notable updates to the Transformers for NLP and Computer Vision 3rd Edition repository to adapt to the 
 fast-evolving Generative AI market.
 
-## May 5,2025
+## May 6, 2025
+
+`DeepSeek_attention_head_RoPE.ipynb` in Chapter02
+
+In a standard Transformer, position vectors (e.g., sinusoidal or learned) are added to token embeddings at the bottom of the model. This means that attention heads see only the sum.
+DeepSeek-V3’s Multi-Head Latent Attention (MLA) instead interleaves position rotations after projecting into key/query subspaces.
+
+## May 5, 2025
 
 `DeepSeek_R1_Zero_RL.ipynb` in Chapter02
 
