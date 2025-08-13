@@ -6,7 +6,16 @@ The updates were made continually, so starting October 30, 2024, I began to note
 This changelog contains the notable updates to the Transformers for NLP and Computer Vision 3rd Edition repository to adapt to the 
 fast-evolving Generative AI market.
 
-## May 6, 2025
+## August 14, 2025
+
+`Chapter08/Fine_tuning_GPT_4.1_mini_SQuAd.ipynb` has been added to replace the existing fine-tuning notebooks, which contain models that are not supported by OpenAI anymore.
+
+A fallback has been added to run the fine-tuned model once the job is finished:
+ `model=first_non_empty_model or "gpt-4.1-mini-2025-04-14"`
+
+That way, if the job is not finished yet, the rest of the code will still respond to prompts.
+
+# May 6, 2025
 
 `DeepSeek_attention_head_RoPE.ipynb` in Chapter02
 
