@@ -8,7 +8,7 @@ fast-evolving Generative AI market.
 
 ## August 14, 2025
 
-`Chapter08/Fine_tuning_GPT_4.1_mini_SQuAd.ipynb` has been added to replace the existing fine-tuning notebooks, which contain models that are not supported by OpenAI anymore.
+`Chapter08/Fine_tuning_GPT_4.1_mini_SQuAd.ipynb` has been added to replace the existing fine-tuning notebooks, which contain models that are no longer supported by OpenAI.
 
 A fallback has been added to run the fine-tuned model once the job is finished:
  `model=first_non_empty_model or "gpt-4.1-mini-2025-04-14"`
